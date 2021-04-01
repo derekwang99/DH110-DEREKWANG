@@ -1,5 +1,5 @@
 # DH110-DEREKWANG
-DH 110: User Experience and Design <br>
+<ins> DH 110: </ins> User Experience and Design <br>
 Instructor: Sookyung Cho <br>
 Meeting Time: Wednesdays, 3:00pm-5:50pm <br>
 
