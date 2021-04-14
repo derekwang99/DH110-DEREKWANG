@@ -4,6 +4,8 @@
 
 ## Introduction
 
+The Senior Assist Reminder and Learning app is a platform where users can create custom placards to perform nonverbal communication, Additionally, this app can create labels to adhere to physical objects so that the elderly can remember specific information throughout the day by just looking at the label. After conducting a heuristic evaluation on this app, several usability issues arose. 
+
 ## Methodology
 
 1. One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
@@ -18,3 +20,4 @@ Click the thumbnail to watch the usability test video.
 ## Reflection
 4. One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
 
+The pilot test taught me to be cognizant of what I say and what I do. Behaving a certain way, even subconsciously, can alter the user's results during the interview. Thus it is important to be careful every step of the way. Overall, the interview went well! The user successfully completed most tasks and had a lot of feedback for the app. However, a few things could be improved. Firstly, I could have rehearsed the script better so that I would sound more natural. Secondly, towards the end, I was unsure whether to vocalize the instructions or not since they were rather self explanatory--the user was beginning to complete the page before I even prompted them. Thirdly, there was a typo that caught me off guard and caused me to break my train of thought. To improve my usability tests in the future, the next time I will rehearse more, keep a consistent way of conducting the experiment, and double check the survey for grammatical errors or typos for the sake of professionalism. 
