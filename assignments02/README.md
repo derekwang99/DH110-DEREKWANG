@@ -13,7 +13,7 @@ To further investigate the issues of the app, we conducted a usability test. A u
 The usability test was conducted and recorded via Zoom on my personal computer. The session recorded the user's screen, which included the audio, the form as the user completes it, the user, and me. 
 
 ## Survey & UT Materials Link 
-The **survey link and moderator script** can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9). Additionally, the **collaborator link** for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
+The **survey link and moderator script** can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9). Additionally, the **collaborator link** for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing).    </br>
 
 ## Interview Video Link:
 The usability test interview video can be found by clicking the thumbnail. 
