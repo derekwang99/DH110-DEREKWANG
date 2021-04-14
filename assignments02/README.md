@@ -10,7 +10,7 @@
 
 ## Survey Link 
 The survey link and moderator script can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9)  </br>
-**Collaborator Link:** [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
+Additionally, the collaborator link for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
 
 3. The link to your pilot UT video (e.g., youtube or google drive). 
 
