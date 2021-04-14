@@ -1,9 +1,15 @@
 # DH 150 Assignment 02: Usability Testing
 
+# Pilot Usability Test
+
+## Introduction
+
+## Methodology
+
 1. One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
 
-2. The link to your online survey (UT materials), share the survey with the instructor. </br>
-**Survey Link:** [here](https://forms.gle/yvL8WdSmV8cGeEuD9)  </br>
+## Survey Link 
+The survey link and moderator script can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9)  </br>
 **Collaborator Link:** [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
 
 3. The link to your pilot UT video (e.g., youtube or google drive). 
