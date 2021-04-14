@@ -23,7 +23,6 @@ The **survey link and moderator script** can be found [here](https://forms.gle/y
 Click the thumbnail to watch the usability test video.  
 
 <p align=center> 
-
 [![THE-ALT-TEXT](http://img.youtube.com/vi/7dqTuaKRRkg/0.jpg)](https://youtu.be/7dqTuaKRRkg "ALT-TEXT")
 
 ## Reflection
