@@ -20,7 +20,8 @@ The usability test was conducted and recorded via Zoom on my personal computer. 
 The **survey link and moderator script** can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9). Additionally, the **collaborator link** for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
 
 ## Video Link:
-Click the thumbnail to watch the usability test video.
+Click the thumbnail to watch the usability test video.  
+
 [![THE-ALT-TEXT](http://img.youtube.com/vi/7dqTuaKRRkg/0.jpg)](https://youtu.be/7dqTuaKRRkg "ALT-TEXT")
 
 ## Reflection
