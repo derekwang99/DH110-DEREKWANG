@@ -8,18 +8,18 @@
 
 The Senior Assist Reminder and Learning app is a platform where users can create custom placards to perform nonverbal communication, Additionally, this app can create labels to adhere to physical objects so that the elderly can remember specific information throughout the day by just looking at the label. After conducting a heuristic evaluation on this app, several usability issues arose. To further investigate the issues of the app, we conducted a usability test.
 
-A usability test is a way to gauge the user's thoughts and perception on the app's interface and ease of use. The usability tests are intended to improve the app by interpreting, analyzing, and implementing the user's feedback. 
+A usability test is a way to gauge the user's thoughts and perception on the app's interface and ease of use. The usability tests are intended to improve the app by interpreting, analyzing, and implementing the user's feedback. During the process, the user is asked to discuss their thoughts on different aspects of the app, complete a few tasks to catch potential areas of improvement, gauge the general thougths about the app, and to learn more about the user's needs and pain points. 
 
-Based on the heuristic evaluation from last week, the usability issues that were investigated involved the the homepage organization, the printing functionality, and the interpretability of the shortcuts for pre-filled labels. 
+Based on the heuristic evaluation from last week, the usability issues that were investigated involved the homepage organization and layout (Task 1), the degree of functionality of the label printing (Task 2), and the interpretability of the shortcuts for pre-filled labels (Task 3). 
 
 ## Methodology
 
 The usability test was conducted and recorded via Zoom on my personal computer. The session recorded the user's screen, which included the audio, the form as the user completes it, the user, and me. 
 
-## Survey Link 
+## Survey & UT Materials Link 
 The **survey link and moderator script** can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9). Additionally, the **collaborator link** for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
 
-## Video Link:
+## Interview Video Link:
 Click the thumbnail to watch the usability test video.  
 
 [![THE-ALT-TEXT](http://img.youtube.com/vi/7dqTuaKRRkg/0.jpg)](https://youtu.be/7dqTuaKRRkg "ALT-TEXT")
