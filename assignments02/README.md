@@ -2,13 +2,19 @@
 
 # Pilot Usability Test
 
-## Introduction
+## Introduction 
 
-The Senior Assist Reminder and Learning app is a platform where users can create custom placards to perform nonverbal communication, Additionally, this app can create labels to adhere to physical objects so that the elderly can remember specific information throughout the day by just looking at the label. After conducting a heuristic evaluation on this app, several usability issues arose. 
+1. One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
+
+The Senior Assist Reminder and Learning app is a platform where users can create custom placards to perform nonverbal communication, Additionally, this app can create labels to adhere to physical objects so that the elderly can remember specific information throughout the day by just looking at the label. After conducting a heuristic evaluation on this app, several usability issues arose. To further investigate the issues of the app, we conducted a usability test.
+
+A usability test is a way to gauge the user's thoughts and perception on the app's interface and ease of use. The usability tests are intended to improve the app by interpreting, analyzing, and implementing the user's feedback. 
+
+Based on the heuristic evaluation from last week, the usability issues that were investigated involved the the homepage organization, the printing functionality, and the interpretability of the shortcuts for pre-filled labels. 
 
 ## Methodology
 
-1. One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
+The usability test was conducted and recorded via Zoom on my personal computer. The session recorded the user's screen, which included the audio, the form as the user completes it, the user, and me. 
 
 ## Survey Link 
 The **survey link and moderator script** can be found [here](https://forms.gle/yvL8WdSmV8cGeEuD9). Additionally, the **collaborator link** for Sookie is [here](https://docs.google.com/forms/d/1_WVIZDwnlDsyBYa4u3PC2xC6J0hzxdiHv8mxJJGBl3w/edit?usp=sharing)    </br>
