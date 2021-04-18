@@ -43,6 +43,12 @@
 > Where: This will be conducted in the home of the participant.
 > The interview will be recorded via Zoom.
 
+## Insights
+
+
+## Reflection
+
+This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. 
 
 ## Step04: Plan to get into the context & write down the observation/ interview guide 
 
