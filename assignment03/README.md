@@ -39,9 +39,18 @@
 </br></br>
 
 ## Step03: Pick research methods (or a combination of methods) 
-> Methods: I will be employing direct observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook. 
+> Methods: I will be employing participatory observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook to find trending content and  interesting communities to join.
 > Where: This will be conducted in the home of the participant.
 > The interview will be recorded via Zoom.
+
+
+
+Please find the script here.
+
+Please find the recording here.
+
+Please find the transcription here.
+
 
 ## Insights
 
