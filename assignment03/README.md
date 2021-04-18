@@ -1,6 +1,6 @@
 # Assignment 03
 
-##Step 1: Specify the Main Design Challenge
+## Step 1: Specify the Main Design Challenge
 
 ### What is the main activity your project would support the users in accomplishing?
 > This project is meant to support the mental health of the elderly by allowing them to connect with other elderly folk in their communities and to introduce them to trending activities and topics to allow them to reintegrate into society. With this project, I hope to allow the elderly to connect with new friends and to bridge the gap between the elderly and the younger generations.
@@ -18,7 +18,7 @@
 
 ## Step02: Target users
 
-###What are the characteristics of users? (ex. demographics, preference, expertise) 
+### What are the characteristics of users? (ex. demographics, preference, expertise) 
 	
  > Demographic: The target users would be people the age of 66 and above. This encompasses people who have just begun to retire or have been in retirement for a few years/decades.
 
