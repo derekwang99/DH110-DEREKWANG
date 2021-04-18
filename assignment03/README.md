@@ -10,7 +10,7 @@
 > The basic need involved is the psychological need of belonginess & love. As the children of the elderly grow their own families, their role as guardian is further displaced which results in a growing sense of loneliness and sometimes even abandonment. This project aims to provide a community for lonely seniors that wish to make more friends.
 
 #### What are traditional/current solution(s) to satisfy the needs? 
-> The traditional solution to satisfy the need for belongingness/love is, in a sense, Facebook. Facebook allows people of all ages to connect with each other and enjoy trending/viral content together. However, because the age demographic of Facebook is so varied, generational gaps and clashes are bound to occur. I hope that my project will provide a “safer” community for the elderly to discuss and interact.
+> The traditional solution to satisfy the need for belongingness/love is, in a sense, Facebook. Facebook allows people of all ages to connect with each other and enjoy trending/viral content together. However, because the age demographic of Facebook is so varied, generational gaps and clashes are bound to occur (which is especially evident in the Comments section). I hope that my project will provide a safe community for the elderly to discuss and interact.
 
 #### What are the limitations that possibly would be improved with digital technology?
 
