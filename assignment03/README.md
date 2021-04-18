@@ -36,6 +36,7 @@
 
 > The user would have to search for a particular community they are interested in (e.g. knitting, cooking) and parse through the profiles of other people (Tinder/Bumble style) with similar interests. From there, users can chat, share knowledge, and provide companionship. Users would have the option to call face-to-face.   Aside from networking, users would read blogs/articles written from other users and engage with trending topics.
 
+</br></br>
 
 ## Step03: Pick research methods (or a combination of methods) 
 > Methods: I will be employing direct observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook. 
