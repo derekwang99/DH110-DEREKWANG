@@ -16,7 +16,7 @@
 
 > Current limitations of networking for the elderly is that the elderly have fewer means of transportation which make in-person meetups more difficult—especially in the current state of the pandemic. Additionally, the elderly are more susceptible to being taken advantage of. As such, providing a safe space for the elderly to communicate online gives them much needed companionship. 
 
-</br>
+</br></br>
 
 ## Step02: Target users
 
