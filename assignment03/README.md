@@ -3,7 +3,7 @@
 ##Step 1: Specify the Main Design Challenge
 
 ### What is the main activity your project would support the users in accomplishing?
-	This project is meant to support the mental health of the elderly by allowing them to connect with other elderly folk in their communities and to introduce them to trending activities and topics to allow them to reintegrate into society. With this project, I hope to allow the elderly to connect with new friends and to bridge the gap between the elderly and the younger generations.
+| This project is meant to support the mental health of the elderly by allowing them to connect with other elderly folk in their communities and to introduce them to trending activities and topics to allow them to reintegrate into society. With this project, I hope to allow the elderly to connect with new friends and to bridge the gap between the elderly and the younger generations.
 
 ### What is the basic need involved for that activity?
 
