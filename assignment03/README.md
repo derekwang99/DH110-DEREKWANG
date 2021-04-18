@@ -45,11 +45,11 @@
 
 
 
-Please find the script here.
+Please find the script [here](https://forms.gle/yvL8WdSmV8cGeEuD9).
 
-Please find the recording here.
+Please find the recording [here].
 
-Please find the transcription here.
+Please find the transcription [here].
 
 
 ## Insights
