@@ -37,16 +37,16 @@
 > The user would have to search for a particular community they are interested in (e.g. knitting, cooking) and parse through the profiles of other people (Tinder/Bumble style) with similar interests. From there, users can chat, share knowledge, and provide companionship. Users would have the option to call face-to-face.   Aside from networking, users would read blogs/articles written from other users and engage with trending topics.
 
 
-Step03: Pick research methods (or a combination of methods) 
-* Interview with direct / passive / participatory observation. 
-* Or something you learned on your own (refer to the field guideline by IDEO) 
+## Step03: Pick research methods (or a combination of methods) 
+> Methods: I will be employing direct observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook. 
+> Where: This will be conducted in the home of the participant.
+> The interview will be recorded via Zoom.
 
-Step04: Plan to get into the context & write down the observation/ interview guide 
-* Decide where to visit 
-* Decide what activities to observe/ what to ask to do 
-* Decide how to interact with the users  
-* Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images) 
-* Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users) 
+
+## Step04: Plan to get into the context & write down the observation/ interview guide 
+
+Contexual Inquiry Guide:
+
 
 Step05: Conduct the research
 * Visit the place 
