@@ -48,7 +48,7 @@
 
 ## Reflection
 
-This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. 
+This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral.
 
 ## Step04: Plan to get into the context & write down the observation/ interview guide 
 
