@@ -77,6 +77,11 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 > "What aspects of this content was interesting?"  
 
 > "Well, um, the way they shoot the video, I feel it's not I don't want to say professional, but it's very attractive to, to view like, you know, the view the music and along with the, the interesting topics, plus the character. So you really want to continue to, to see what's going on and work through them prepare."
+ 
+3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
+> Do you feel welcome in this community (Santa Clarita Foodies)?  
+
+> Welcome? Well nobody cares (if I am around).
 
 
 ## Reflection
