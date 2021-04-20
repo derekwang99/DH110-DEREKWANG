@@ -50,7 +50,7 @@
 
 Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_tv0KMmI4ESEPiI7bO9rBrOamOOI84Q/edit?usp=sharing).
 
-Please find the background questions recording (part 1) [here].
+Please find the background questions recording (part 1) [here](https://youtu.be/qPMG6PtAeVk).
 
 Please find the Facebook activity recording (part 2) [here]
 
