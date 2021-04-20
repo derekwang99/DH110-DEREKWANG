@@ -47,7 +47,9 @@
 
 Please find the script [here](https://forms.gle/yvL8WdSmV8cGeEuD9).
 
-Please find the recording [here].
+Please find the background question recording [here].
+
+Please find the Facebook activity recording [here] and the Reddit/User Feedback recording [here].
 
 Please find the transcription [here].
 
@@ -57,7 +59,7 @@ Please find the transcription [here].
 
 ## Reflection
 
-This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral.
+This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. 
 
 ## Step04: Plan to get into the context & write down the observation/ interview guide 
 
