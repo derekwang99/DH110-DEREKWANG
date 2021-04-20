@@ -50,9 +50,11 @@
 
 Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_tv0KMmI4ESEPiI7bO9rBrOamOOI84Q/edit?usp=sharing).
 
-Please find the background question recording [here].
+Please find the background questions recording (part 1) [here].
 
-Please find the Facebook activity recording [here] and the Reddit/User Feedback recording [here].
+Please find the Facebook activity recording (part 2) [here]
+
+Please find the Reddit/User Satisfaction recording (part 3) [here](https://youtu.be/UDHNP6WERnI).
 
 Please find the transcription [here].
 
