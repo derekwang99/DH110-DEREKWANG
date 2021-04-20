@@ -39,17 +39,17 @@
 </br></br>
 
 ## Step03: Pick research methods (or a combination of methods) 
-> Methods: I will be employing participatory observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook to find trending content and  interesting communities to join.
-> Where: This will be conducted in the home of the participant.
-> The interview will be recorded via Zoom.
+Methods: I will be employing participatory observation to conduct my research. I will be observing the participant as they navigate and interact with Reddit and Facebook to find trending content and  interesting communities to join.
+Where: This will be conducted in the home of the participant.
+The interview will be recorded via Zoom.
 
-> The session consisted of the following sections:
+The session consisted of the following sections:
 
-> 1. Background questions: This was to understand the user's background, familiarity with technology, and what sort of communities they are a part of. It gave a frame of reference of who the user is.
+1. Background questions: This was to understand the user's background, familiarity with technology, and what sort of communities they are a part of. It gave a frame of reference of who the user is.
 
-> 2. Facebook Observation: This was to observe how the user enjoys Facebook content and how 
+2. Facebook Observation: This was to observe how the user enjoys Facebook content and how 
 
-> 3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
 
 </br></br>
 
