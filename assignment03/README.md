@@ -45,11 +45,11 @@
 
 > The session consisted of the following sections:
 
-1. Background questions a. I wanted to learn about what a typical day looks like for the target users, and how my website could support those daily tasks. I also asked about any enjoyable and frustrating experiences they had that were not necessarily related to searching Asian American history.
+> 1. Background questions: This was to understand the user's background, familiarity with technology, and what sort of communities they are a part of. It gave a frame of reference of who the user is.
 
-2. Observation a. I allowed the user to search up a topic that they wished to learn more about and asked that they think aloud. b. When users refined their search or chose certain results, I asked follow-up questions to clarify their thought process.
+> 2. Facebook Observation: This was to observe how the user enjoys Facebook content and how 
 
-3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+> 3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
 
 </br></br>
 
@@ -67,6 +67,10 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 
 
 ## Insights
+
+1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
+
+2. 
 
 
 ## Reflection
