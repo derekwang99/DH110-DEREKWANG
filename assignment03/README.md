@@ -59,24 +59,4 @@ Please find the transcription [here].
 
 ## Reflection
 
-This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. 
-
-## Step04: Plan to get into the context & write down the observation/ interview guide 
-
-Contexual Inquiry Guide:
-
-
-Step05: Conduct the research
-* Visit the place 
-* Meet/Observe the user(s) 
-* Collect the data (record, pictures, answered_survey) 
-
-Step06: Organize/Documentation
-* In github (sub)repository assignment4, create one document (either README.md or .html) 
-* Describe your project design challenge + target user (step1+2) 
-* Describe your research methods and plan (step3) 
-* Provide a link to your interview/observation guide (step4)  
-* Digitize your notes (scan/photo) and upload your data to github 
-* Provide a link to your representative data file(s) (step5) 
-* Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here)  
-* Write a reflection 
+This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
