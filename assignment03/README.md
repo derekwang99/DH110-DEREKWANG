@@ -74,7 +74,8 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 > "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
 
 2. The elder generation may appreciate higher quality content--throughout the session, the interviewee talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute) and are more used to movies and more established content.
-> "What aspects of this content was interesting?"
+> "What aspects of this content was interesting?"  
+
 > "Well, um, the way they shoot the video, I feel it's not I don't want to say professional, but it's very attractive to, to view like, you know, the view the music and along with the, the interesting topics, plus the character. So you really want to continue to, to see what's going on and work through them prepare."
 
 
