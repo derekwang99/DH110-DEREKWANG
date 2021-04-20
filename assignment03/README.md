@@ -45,7 +45,7 @@
 
 
 
-Please find the script [here](https://forms.gle/yvL8WdSmV8cGeEuD9).
+Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_tv0KMmI4ESEPiI7bO9rBrOamOOI84Q/edit?usp=sharing).
 
 Please find the background question recording [here].
 
