@@ -56,7 +56,7 @@ Please find the Facebook activity recording (part 2) [here](https://youtu.be/tby
 
 Please find the Reddit/User Satisfaction recording (part 3) [here](https://youtu.be/UDHNP6WERnI).
 
-Please find the transcription [here].
+Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqYE-4zBW3gazQ9Qigx-VC6UdNOETVuTlpoByRg/edit?usp=sharing).
 
 
 ## Insights
