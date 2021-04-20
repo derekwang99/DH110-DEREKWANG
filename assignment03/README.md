@@ -47,6 +47,7 @@
 </br></br>
 
 ## Materials 
+> The total interview duration was one hour.
 
 Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_tv0KMmI4ESEPiI7bO9rBrOamOOI84Q/edit?usp=sharing).
 
