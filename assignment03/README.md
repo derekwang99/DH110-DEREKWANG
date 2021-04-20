@@ -71,6 +71,7 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 ## Insights
 
 1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
+> "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
 
 2. 
 
