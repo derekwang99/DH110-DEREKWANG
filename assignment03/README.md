@@ -83,6 +83,11 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 
 > Welcome? Well nobody cares (if I am around).
 
+4. People like learning new things and gaining more knowledge, especially about technology. Additionally, I learned that the elder generation likes learning about the current state of society because they may feel left out and "behind the times". I think reintegrating the elder generation into society would be conducive to their overall mental health. 
+> "Overall, how do you feel about today's activity?"
+
+> "It's It's fun, it's interesting to learn, you know, different things."
+
 
 ## Reflection
 
