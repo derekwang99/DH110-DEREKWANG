@@ -43,6 +43,13 @@
 > Where: This will be conducted in the home of the participant.
 > The interview will be recorded via Zoom.
 
+> The session consisted of the following sections:
+
+1. Background questions a. I wanted to learn about what a typical day looks like for the target users, and how my website could support those daily tasks. I also asked about any enjoyable and frustrating experiences they had that were not necessarily related to searching Asian American history.
+
+2. Observation a. I allowed the user to search up a topic that they wished to learn more about and asked that they think aloud. b. When users refined their search or chose certain results, I asked follow-up questions to clarify their thought process.
+
+3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
 
 </br></br>
 
