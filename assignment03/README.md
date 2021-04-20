@@ -47,9 +47,11 @@ The session consisted of the following sections:
 
 1. Background questions: This was to understand the user's background, familiarity with technology, and what sort of communities they are a part of. It gave a frame of reference of who the user is.
 
-2. Facebook Observation: This was to observe how the user enjoys Facebook content and how 
+2. Contextual Questions: Here I asked questions that were more relevant to the purpose of the activity that prefaced the entire session. It was also served as a kind of a warm-up for the upcoming activities.
 
-3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+4. Facebook/Reddit Observation: This was to observe how the user enjoys content and what sort of communities elder people are drawn to. This activity highlights which features are helpful to the interviewee and which features aren't.
+
+3. User Satisfaction/Feedback: Here, the interviewee was given the opportunity to discuss what they thought about the activites after having done both of them and how the activity was as a whole.
 
 </br></br>
 
