@@ -62,6 +62,7 @@ Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_t
 Please find the background questions recording (part 1) [here](https://youtu.be/qPMG6PtAeVk).
 
 Please find the Facebook activity recording (part 2) [here](https://drive.google.com/file/d/17qoa2kdYdCHwMVqCD-6UumBXxH5tGn_q/view?usp=sharing).
+	* uploaded on Google Drive due to copyright issues on Youtube.
 
 Please find the Reddit/User Satisfaction recording (part 3) [here](https://youtu.be/UDHNP6WERnI).
 
@@ -86,7 +87,7 @@ Please find the transcription [here](https://docs.google.com/document/d/1IzGzmqY
 4. People like learning new things and gaining more knowledge, especially about technology. Additionally, I learned that the elder generation likes learning about the current state of society because they may feel left out and "behind the times". I think reintegrating the elder generation into society would be conducive to their overall mental health. 
 > "Overall, how do you feel about today's activity?"
 
-> "It's It's fun, it's interesting to learn, you know, different things."
+> "It's...It's fun, it's interesting to learn, you know, different things."
 
 
 ## Reflection
