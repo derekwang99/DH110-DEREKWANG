@@ -62,7 +62,7 @@ Please find the script [here](https://docs.google.com/document/d/1iXR81Eh-D0u6_t
 Please find the background questions recording (part 1) [here](https://youtu.be/qPMG6PtAeVk).
 
 Please find the Facebook activity recording (part 2) [here](https://drive.google.com/file/d/17qoa2kdYdCHwMVqCD-6UumBXxH5tGn_q/view?usp=sharing).
-	* uploaded on Google Drive due to copyright issues on Youtube.
+* uploaded on Google Drive due to copyright issues on Youtube.
 
 Please find the Reddit/User Satisfaction recording (part 3) [here](https://youtu.be/UDHNP6WERnI).
 
