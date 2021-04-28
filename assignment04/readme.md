@@ -27,8 +27,17 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 ## Scenarios and Journey Maps
 
 ### Cindy's Scenario
-> **Why?** Cindy's mental health is deteriorating and often feels invisible in her own home. Her daughter and son-in-law mean well, but they themselves get up early and come home late for work. Cindy thus feels very lonely and isolated. After immigrating to the U.S., Cindy had to create a whole new social network. However, the greatest impediment to this is that Cindy could not speak English. Over the course of 10 years, she has learned enough English to get basic skills down (e.g. buying groceries, small talk, read some signs), but it is not enough to make lasting friendships due to the language barrier. Cindy hopes to find new friends that speak Chinese to just chat and likes to watch Chinese Dramas.  
 
-**How**
+**Why Cindy is using this product?**
+
+> Cindy's mental health is deteriorating and often feels invisible in her own home. Her daughter and son-in-law mean well, but they themselves get up early and come home late for work. Cindy thus feels very lonely and isolated. After immigrating to the U.S., Cindy had to create a whole new social network. However, the greatest impediment to this is that Cindy could not speak English. Over the course of 10 years, she has learned enough English to get basic skills down (e.g. buying groceries, small talk, read some signs), but it is not enough to make lasting friendships due to the language barrier. Cindy hopes to find new friends that speak Chinese to just chat and likes to watch Chinese Dramas.  
+
+**How Cindy is using this product?**
+
+> Cindy opens up the app on her phone and creates an account. She is prompted to fill out basic information about herself and is asked to provide her location so that she can be recommended nearby people/communities. Cindy looks for a community and finds the C-Drama community. She sees what other folks in Alhambra are watching based on their posts in the community. Cindy wishes to make her own C-Drama watching group and makes a post saying "有沒有人想和我一起看\[三国机密\]? (Would anybody like to watch 'Secret of Three Kingdoms' with me?)" Cindy is sometimes recommended a friend based on similar demographic information and interests.
+> 
+> 
+> 
+> Cindy uses this product frequently
 
 ### William's Scenario
