@@ -3,7 +3,7 @@
 <ins> Meeting Time:</ins> Wednesdays, 3:00pm-5:50pm <br>
 
 
-![](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md)assignment01 - Heuristic Evaluation 
+![assignment01](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md) - Heuristic Evaluation 
 
 assignment02 - Pilot Usability Test   
 
