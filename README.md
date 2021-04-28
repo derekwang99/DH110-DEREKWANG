@@ -3,7 +3,10 @@
 <ins> Meeting Time:</ins> Wednesdays, 3:00pm-5:50pm <br>
 
 
-assignment01 - 
-assignment01 - 
-assignment01 - 
-assignment01 - Personas, Scenarios, Empathy & Journey Mapping
+assignment01 - Heuristic Evaluation 
+
+assignment02 - Pilot Usability Test   
+
+assignment03 - Contextual Inquiry (User Interview)
+
+assignment04 - Personas, Scenarios, Empathy & Journey Mapping
