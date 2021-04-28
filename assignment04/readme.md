@@ -46,3 +46,5 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 
 **How William is using this product** 
 > 
+
+![](/assignment04/assginment%2004/William%20Journey%20Map.png)
