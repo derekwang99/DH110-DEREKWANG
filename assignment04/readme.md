@@ -12,9 +12,16 @@
 
 ![](/assignment04/assginment%2004/Frame%201.png)
 
-<\br>
+</br>
 
 2. William Smith 
 
 ![](/assignment04/assginment%2004/William%20Smith.png)
 ![](/assignment04/assginment%2004/Frame%202.png)
+
+## Scenarios and Journey Maps
+
+### Cindy's Scenario
+
+
+### William's Scenario
