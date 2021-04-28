@@ -37,3 +37,10 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 > Cindy opens up the app on her phone and creates an account. She is prompted to fill out basic information about herself and is asked to provide her location so that she can be recommended nearby people/communities. Cindy looks for a community and finds the C-Drama community. She sees what other folks in Alhambra are watching based on their posts in the community. Cindy wishes to make her own C-Drama watching group and makes a post saying "有沒有人想和我一起看 三国机密? (Would anybody like to watch 'Secret of Three Kingdoms' with me?)". A few days later, a person named Michelle responds and says yes! They schedule a time to meet and Michelle comes over to Cindy's on Monday. They watch the drama and discuss about it. They decide to meet regularly. Cindy uses this product to communicate with Michelle but found it easier to use WeChat instead. Now, Cindy uses this product mainly to find new friends and check what's up on her local neighborhood & community.
 
 ### William's Scenario
+
+**Why William is using this product**
+
+> William found himself to be very bored when his golfing buddy and closest friend of thirty years decides to move away to New Jersey to be closer with his family. William isn't fond of large groups of friends and instead opts to have one very close friend.
+
+**How William is using this product** 
+> 
