@@ -27,6 +27,8 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 ## Scenarios and Journey Maps
 
 ### Cindy's Scenario
+**Why?** Cindy's mental health is deteriorating and often feels invisible in her own home. After immigrating to the U.S., Cindy had to create a whole new social network. However, the greatest impediment to this is that Cindy could not speak English. Over the course of 
 
+**How**
 
 ### William's Scenario
