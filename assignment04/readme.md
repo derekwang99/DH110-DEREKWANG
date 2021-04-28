@@ -10,7 +10,7 @@
 
 ![](/assignment04/assginment%2004/Cindy%20Zhang.png)
 
-![](/assignment04/assginment%2004/Frame1.png)
+![](/assignment04/assginment%2004/Frame%201.png)
 
 2. William Smith 
 
