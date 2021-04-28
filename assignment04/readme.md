@@ -2,7 +2,7 @@
 
 ## Purpose of UX Storytelling
 
-The purpose of UX storytelling is to present a narrative that provides a natural and engaging way to describe the use of a product or the point of a user experience. UX storytelling helps us explain difficult concepts and the additional context allows our audeince to connect better. A unique benefit of UX storytelling is that stories spark our imagination and give us the freedom to make up any scenario. As a result, multiple solutions can be thought by different people making up their own stories. 
+The purpose of UX storytelling is to present a narrative that provides a natural and engaging way to describe the use of a product or the point of a user experience. UX storytelling helps us explain difficult concepts and the additional context allows our audience to connect better. Examples of this context include the user's emotions, reactions, motivations, needs, behaviors, and inner thoughts. This sort of qualitative context is difficult to discover from quantative data. A unique benefit of UX storytelling is that stories spark our imagination and give us the freedom to make up any scenario. As a result, multiple solutions can be thought by different people making up their own stories. 
 
 ## Design Features
 
