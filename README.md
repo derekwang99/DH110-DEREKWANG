@@ -7,6 +7,6 @@
 
 [assignment02](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02) - Pilot Usability Test   
 
-[assignment03]() - Contextual Inquiry (User Interview)
+[assignment03](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment03) - Contextual Inquiry (User Interview)
 
-assignment04 - Personas, Scenarios, Empathy & Journey Mapping
+[assignment04](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04) - Personas, Scenarios, Empathy & Journey Mapping
