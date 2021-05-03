@@ -5,8 +5,8 @@
 
 [assignment01](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md) - Heuristic Evaluation 
 
-assignment02 - Pilot Usability Test   
+[assignment02](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02) - Pilot Usability Test   
 
-assignment03 - Contextual Inquiry (User Interview)
+[assignment03]() - Contextual Inquiry (User Interview)
 
 assignment04 - Personas, Scenarios, Empathy & Journey Mapping
