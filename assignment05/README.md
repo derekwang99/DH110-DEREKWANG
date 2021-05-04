@@ -15,6 +15,6 @@ Based on user research, the features of the low-fidelity prototype will be able 
 
 ## Wireframes and Wireflow
 
-![alt text](./IMG_2895.heic)
+![alt text](./IMG_2895.png)
 
 ## Reflection/Changes to be made
