@@ -1,4 +1,4 @@
-# Assignment 06: Low Fidelity Prototype
+# Assignment 05: Low Fidelity Prototype
 
 ## Project Description
 User research:
