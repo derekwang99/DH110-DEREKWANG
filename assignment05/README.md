@@ -15,8 +15,6 @@ Based on user research, the features of the low-fidelity prototype will be able 
 
 ## Wireframes and Wireflow
 
-<p>
-  img src = 
-</p>
+![alt text](IMG_2895.heic  "Title")
 
 ## Reflection/Changes to be made
