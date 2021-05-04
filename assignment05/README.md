@@ -3,7 +3,7 @@
 ## Project Description
 User research:
 
-Personas:
+Personas: The user personas that were constructed were based on elderly people that are likely retired. This demographic is usually not tech savvy and have physical impairments or disabilities that make using technology difficult (e.g. myopia/hyperopia, arthritis, limited mobility). This demographic also tend to be lonelier and need greater emotional support as they often deal with a lot of problems (e.g. significant other/friends pass away, family is far away, health concerns, etc). This demographic maybe also address technology with skepticism or may even fear using technology. 
 
 The purpose of this low-fidelity prototype is to test out our concepts and translate them into the basic framework of our product to see if the functionalities makes sense to regular users. We can then adjust the prototype according the user feedback.
 
