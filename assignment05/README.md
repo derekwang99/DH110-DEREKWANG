@@ -15,6 +15,18 @@ Based on user research, the features of the low-fidelity prototype will be able 
 
 ## Wireframes and Wireflow
 
-![alt text](./IMG_2895.png)
+![wireframe wireflow](./IMG_2895.png)
+
+Flow description:
+
+Features Description:
+
+## Prototype Testing 
+
+![tester walkthrough](./abc.png)
+
+Notable interactions:
+
 
 ## Reflection/Changes to be made
+
