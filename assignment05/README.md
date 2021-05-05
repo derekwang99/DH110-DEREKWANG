@@ -22,7 +22,7 @@ Flow description: This flow intends for the user to search for a community based
 
 ## Prototype Testing 
 
-The tester was sent a png file of the prototype, and screen recorded his work on Zoom. As for tasks and interactions, the tester was asked to:
+The tester was sent a png file of the prototype, and we recorded our meeting on Zoom as he screenshared the prototype. As for tasks and interactions, the tester was asked to:
 
 1.  Search for a community of interest
 2.  Go through the interactive searching process
@@ -37,6 +37,9 @@ The link to the video of the prototype test can be found [here](https://youtu.be
 
 Notable interactions:
 
+* The user if there was a button to go back to a previous selection in the interactive search process. 
+
+Other than this, the prototype test ran smoothly.
 
 ## Reflection/Changes to be made
 
