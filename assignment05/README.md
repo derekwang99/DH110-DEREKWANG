@@ -48,3 +48,5 @@ Throughout this activity, my greatest area of trouble was drawing the wireflow b
 For the interactive filtering search process I forgot to provide an option to navigate between selection stages (e.g. go back from "What kind of shows?" to 
 "What do you like to do?"). To remedy this, a swipe-feature/slider will be provided so that users do not have to click to get to the next selection--they can simply just swipe. The back button will instead but placed on the top side of the interface, which is more in-line with people's natural mental model when it comes to websites/apps.
 
+The other features were relatively easy to follow and use.
+
