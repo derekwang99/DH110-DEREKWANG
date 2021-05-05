@@ -43,7 +43,7 @@ Other than this, the prototype test ran smoothly.
 
 ## Reflection/Changes to be made
 
-I think my greatest area of trouble was drawing the wireflow because felt that arrows are self-explanatory and almost linear so the tester would therefore just follow that instead of exploring the other options. If I were to redo the interactive search process, I would not bold out certain options (e.g. Watch TV > Asian > K-Drama) and would likely forgo labeling the icons so that the tester is given less direct guidance. However, I can't think of a good way to describe the hierarchy without attaching labels. 
+Throughout this activity, my greatest area of trouble was drawing the wireflow because felt that arrows are self-explanatory and almost linear so the tester would therefore just follow that instead of exploring the other options. If I were to redo the interactive search process, I would not bold out certain options (e.g. Watch TV > Asian > K-Drama) and would likely forgo labeling the icons so that the tester is given less direct guidance. However, I can't think of a good way to describe the hierarchy without attaching labels. 
 
 For the interactive filtering search process I forgot to provide an option to navigate between selection stages (e.g. go back from "What kind of shows?" to 
 "What do you like to do?"). To remedy this, a swipe-feature/slider will be provided so that users do not have to click to get to the next selection--they can simply just swipe. The back button will instead but placed on the top side of the interface, which is more in-line with people's natural mental model when it comes to websites/apps.
