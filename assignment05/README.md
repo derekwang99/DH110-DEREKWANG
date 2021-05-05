@@ -35,9 +35,9 @@ The tester was sent a png file of the prototype, and we recorded our meeting on 
 
 The link to the video of the prototype test can be found [here](https://youtu.be/rtldtxhx7wc).
 
-Notable interactions:
+**Notable interactions:**
 
-* The user if there was a button to go back to a previous selection in the interactive search process. 
+* The user asked if there was a button to go back to a previous selection in the interactive search process. 
 
 Other than this, the prototype test ran smoothly.
 
