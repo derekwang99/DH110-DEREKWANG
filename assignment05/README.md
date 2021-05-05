@@ -22,7 +22,7 @@ Flow description: This flow intends for the user to search for a community based
 
 ## Prototype Testing 
 
-The tester was sent a png file of the prototype, and screen recorded his work on Notability. As for tasks and interactions, the tester was asked to 
+The tester was sent a png file of the prototype, and screen recorded his work on Zoom. As for tasks and interactions, the tester was asked to:
 
 1.  Search for a community of interest
 2.  Go through the interactive searching process
