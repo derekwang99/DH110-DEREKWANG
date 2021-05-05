@@ -17,9 +17,8 @@ Based on user research, the features of the low-fidelity prototype will be able 
 
 ![wireframe wireflow](./IMG_2895.png)
 
-Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. After selecting on a community, users can join the community, make posts on the forum, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. Users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
+Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
-Features Description:
 
 ## Prototype Testing 
 
@@ -29,4 +28,7 @@ Notable interactions:
 
 
 ## Reflection/Changes to be made
+
+For the interactive filtering search process I forgot to provide an option to navigate between selection stages (e.g. go back from "What kind of shows?" to 
+"What do you like to do?"). To remedy this, a swipe-feature/slider will be provided so that users do not have to click to get to the next selection--they can simply just swipe. The back button will instead but placed on the top side of the interface, which is more in-line with people's natural mental model when it comes to websites/apps.
 
