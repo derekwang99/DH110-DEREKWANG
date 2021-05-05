@@ -17,7 +17,7 @@ Based on user research, the features of the low-fidelity prototype will be able 
 
 ![wireframe wireflow](./IMG_2895.png)
 
-Flow description:
+Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. After selecting on a community, users can join the community, make posts on the forum, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. Users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
 Features Description:
 
