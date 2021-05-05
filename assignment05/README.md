@@ -6,12 +6,12 @@ The premise of the project is to produce a product that is able to connect nearb
 
 The purpose of this low-fidelity prototype is to test out our concepts and translate them into the basic framework of our product to see if the functionalities makes sense to older users. We can then adjust the prototype according the user feedback.
 
-## Supported Tasks
+## Supported Task & Features
 
 Based on user research, the features of the low-fidelity prototype will be able to do the following:
-* Create an interactive filtering search process
+* Create an interactive (question-based) filtering search process to make finding a community simpler.
 * The ability to join an existing community
-* Contact another person and/or create a groupchat
+* Contact another person and/or create a groupchat 
 
 ## Wireframes and Wireflow
 
