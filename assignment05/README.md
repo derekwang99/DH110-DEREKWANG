@@ -33,7 +33,7 @@ The tester was sent a png file of the prototype, and screen recorded his work on
 7.  Send a voice recording message.
 8.  Go back to the home page.
 
-The link to the video of the prototype test can be found ![here](https://youtu.be/rtldtxhx7wc).
+The link to the video of the prototype test can be found [here](https://youtu.be/rtldtxhx7wc).
 
 Notable interactions:
 
