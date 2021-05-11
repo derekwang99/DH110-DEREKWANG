@@ -11,13 +11,22 @@ The project that I am designing involves creating a new mobile product that allo
 3. Message and interact with other senior citizens. 
 4. (maybe) The ability to create a new community.
 
-## Screen designs
+## Screen Designs
 One image with the representative examples of screen designs (3-5 screens) 
 
 
 ## UI Decision Making
 
+## Design System
+
+* Typeface:
+* Size:
+* Color Scheme: (background, primary text, accent color for buttons, etc)
+* Layout grid and spacing
+
+
 Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
+
 
 ## Impression test 
 
