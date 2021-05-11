@@ -21,4 +21,6 @@ Description of your decision making of the graphical interface design, including
 
 ## Impression test 
 
+### Analysis of the test
+
 ## Checking Accessibility
