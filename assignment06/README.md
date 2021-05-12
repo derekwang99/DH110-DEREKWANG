@@ -27,8 +27,8 @@ One image with the representative examples of screen designs (3-5 screens)
 * Layout grid and spacing
 
 
-**Thought Process:** I chose to make the fonts a bit larger than normal (18px) due to the fact that senior citizens tend to poorer vision. 
-(Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.)
+**Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied both *WCAG AA* and *WCAG AAA* standards.
+(Description of your decision making of the graphical interface design,
 
 
 ## Impression test 
