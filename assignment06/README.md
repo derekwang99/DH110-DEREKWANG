@@ -11,6 +11,7 @@ The project that I am designing involves creating a new mobile product that allo
 3. Message and interact with other senior citizens. 
 
 ## Screen Designs
+The link to the screen designs can be found [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1)
 ![Screen Designs](/assignment06/Screens.png)
 
 ### Variants
