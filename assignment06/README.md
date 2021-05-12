@@ -39,7 +39,7 @@ One image with the representative examples of screen designs (3-5 screens)
 
 ### Contrast Check for Newsfeed
 Accessibility check satisfied for the newsfeed.
-![Contrast Check for Newsfeed](/assignment06/contrast_check_questions.png = 250x)
+![Contrast Check for Newsfeed](/assignment06/contrast_check_questions.png =250x)
 
 ### Contrast Check for Questions:
 Accessibility check satisfied for the interactive search process.
