@@ -16,7 +16,6 @@ One image with the representative examples of screen designs (3-5 screens)
 
 ### Variants
 ![Variants](/assignment06/Variants.png)
-![Color Scheme](/assignment06/Color%20Scheme.png)
 
 ## UI Decision Making
 
@@ -24,7 +23,8 @@ One image with the representative examples of screen designs (3-5 screens)
 
 * Typeface: Quicksand
 * Size: 24 (H1), 18 (H2), 16 (H3)
-* Color Scheme: ![Color Scheme](/assignment06/Color%20Scheme.png)
+* Color Scheme: 
+![Color Scheme](/assignment06/Color%20Scheme.png)
 * Layout grid and spacing
 
 
