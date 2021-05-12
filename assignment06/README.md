@@ -15,13 +15,14 @@ The project that I am designing involves creating a new mobile product that allo
 One image with the representative examples of screen designs (3-5 screens) 
 
 ### Variants
+![Variants](/Variants.png)
 
 ## UI Decision Making
 
 ## Design System
 
-* Typeface:
-* Size:
+* Typeface: Quicksand
+* Size: 24 (H1), 18 (H2), 16 (H3)
 * Color Scheme: (background, primary text, accent color for buttons, etc)
 * Layout grid and spacing
 
