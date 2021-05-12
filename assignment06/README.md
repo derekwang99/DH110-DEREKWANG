@@ -42,6 +42,9 @@ Accessibility check satisfied for the newsfeed.
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/contrast_check_questions.png" width= 50% />
 
+<br />
+<br />
+
 ### Contrast Check for Questions:
 Accessibility check satisfied for the interactive search process.  
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/contrast_check_feed.png" width= 50% />
