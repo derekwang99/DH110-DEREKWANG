@@ -27,7 +27,7 @@ One image with the representative examples of screen designs (3-5 screens)
 ![Color Scheme](/assignment06/Color%20Scheme.png)
 
 
-**Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied both *WCAG AA* and *WCAG AAA* standards. Designing for accessibility helps everyone use a product better. I also chose to similarly model the project after Facebook, since Facebook is relatively common among this demographic. 
+**Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied both *WCAG AA* and *WCAG AAA* standards. Additionally, incorporating a mainly black and white dark mode theme means that more colors can be used harmoniously and cause the least strain on the eyes as possible. Designing for accessibility helps everyone use a product better. I also chose to similarly model the project after Facebook, since Facebook is relatively common among this demographic. 
 
 
 ## Checking Accessibility
