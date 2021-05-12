@@ -9,7 +9,6 @@ The project that I am designing involves creating a new mobile product that allo
 1. Discover new communities with ease via the interactive search process.
 2. The ability to join and browse an existing community.
 3. Message and interact with other senior citizens. 
-4. (maybe) The ability to create a new community.
 
 ## Screen Designs
 One image with the representative examples of screen designs (3-5 screens) 
