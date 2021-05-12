@@ -11,7 +11,7 @@ The project that I am designing involves creating a new mobile product that allo
 3. Message and interact with other senior citizens. 
 
 ## Screen Designs
-One image with the representative examples of screen designs (3-5 screens) 
+![Screen Designs](/assignment06/Screens.png)
 
 ### Variants
 ![Variants](/assignment06/Variants.png)
