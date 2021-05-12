@@ -12,3 +12,5 @@
 [assignment04](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04) - Personas, Scenarios, Empathy & Journey Mapping
 
 [assignment05](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05) - Low-Fidelity Prototype
+
+[assignment06](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06) - Interactive Prototype
