@@ -14,6 +14,7 @@ The project that I am designing involves creating a new mobile product that allo
 ## Screen Designs
 One image with the representative examples of screen designs (3-5 screens) 
 
+### Variants
 
 ## UI Decision Making
 
