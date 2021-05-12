@@ -30,11 +30,6 @@ One image with the representative examples of screen designs (3-5 screens)
 **Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied both *WCAG AA* and *WCAG AAA* standards.
 (Description of your decision making of the graphical interface design,
 
-
-## Impression test 
-
-### Analysis of the test
-
 ## Checking Accessibility
 
 ### Contrast Check for Newsfeed
@@ -48,3 +43,9 @@ Accessibility check satisfied for the newsfeed.
 ### Contrast Check for Questions:
 Accessibility check satisfied for the interactive search process.  
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/contrast_check_feed.png" width= 50% />
+
+
+## Impression test 
+
+### Analysis of the test
+
