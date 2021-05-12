@@ -15,7 +15,7 @@ The project that I am designing involves creating a new mobile product that allo
 One image with the representative examples of screen designs (3-5 screens) 
 
 ### Variants
-![Variants](/Variants.png)
+![Variants](/assignment06/Variants.png)
 
 ## UI Decision Making
 
