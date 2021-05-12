@@ -21,11 +21,10 @@ One image with the representative examples of screen designs (3-5 screens)
 
 ## Design System
 
-* Typeface: Quicksand
-* Size: 24 (H1), 18 (H2), 16 (H3)
-* Color Scheme: < /br>
+* **Typeface:** Quicksand
+* **Size:** 24px (H1), 18px (H2), 16px (H3)
+* **Color Scheme:** 
 ![Color Scheme](/assignment06/Color%20Scheme.png)
-* Layout grid and spacing
 
 
 **Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied both *WCAG AA* and *WCAG AAA* standards.
