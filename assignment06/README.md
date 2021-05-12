@@ -27,7 +27,8 @@ One image with the representative examples of screen designs (3-5 screens)
 * Layout grid and spacing
 
 
-Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
+**Thought Process:** I chose to make the fonts a bit larger than normal (18px) due to the fact that senior citizens tend to poorer vision. 
+(Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.)
 
 
 ## Impression test 
@@ -35,3 +36,7 @@ Description of your decision making of the graphical interface design, including
 ### Analysis of the test
 
 ## Checking Accessibility
+
+![Contrast Check for Questions](/assignment06/contrast_check_questions.png)
+
+![Contrast Check for Newsfeed](/assignment06/contrast_check_feed.png)
