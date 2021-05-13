@@ -46,7 +46,7 @@ Accessibility check satisfied for the interactive search process.
 
 
 ## Impression test 
-The link to the impression test video can be found [here](https://youtu.be/0oNr_uHMvYU)
+The link to the impression test video can be found [here](https://youtu.be/0oNr_uHMvYU).
 
 ### Analysis of the test
 The user seemed to get the gist of the app, saying that it was a sort of fuse between Facebook and Instagram. Upon asking him what the questions were for, he correctly responded that it was likely to narrow down one's interests to find a group. The user did not have much to say about the intial slide designs (the emotion level check-up and the recommendations. 
