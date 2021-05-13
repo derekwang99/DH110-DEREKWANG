@@ -46,6 +46,7 @@ Accessibility check satisfied for the interactive search process.
 
 
 ## Impression test 
+The link to the impression test video can be found [here](https://youtu.be/0oNr_uHMvYU)
 
 ### Analysis of the test
 
