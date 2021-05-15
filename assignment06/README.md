@@ -4,6 +4,16 @@
 
 The project that I am designing involves creating a new mobile product that allows senior citizens to connect with each other based on similar interests and geographic location. The goal in doing so is to improve the mental health of the elder demographic by allowing them to experience feelings of companionship and belonging. The purpose of this high-fidelity prototyping phase is to create a working model that elder users can test out so that problematic features can be tweaked to fit their needs. Because this demographic faces greater accessibility issues, this phase is especially important. This phase will consist of UI planning, prototype development, impression testing, analysis of our findings.
 
+img {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ margin-top: -96px;
+ margin-left: -138px;
+ height: 192px;
+ width: 256px;
+}
+
 ## The Interactive Prototype's Supported Tasks
 
 1. Discover new communities with ease via the interactive search process.
