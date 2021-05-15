@@ -24,7 +24,7 @@ The link to the Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V
 * **Typeface:** Quicksand
 * **Size:** 24px (H1), 18px (H2), 16px (H3)
 * **Color Scheme:** 
-* <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Color%Scheme.png" width= 50% />
+* <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Color%20Scheme.png" width= 50% />
 * **Grid Layout:**
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Grid%20Layout.png" width= 50% />
 
