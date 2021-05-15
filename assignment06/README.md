@@ -25,7 +25,8 @@ The link to the Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V
 * **Size:** 24px (H1), 18px (H2), 16px (H3)
 * **Color Scheme:** 
 ![Color Scheme](/assignment06/Color%20Scheme.png)
-
+* **Grid Layout:**
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Grid%20Layout.png" width= 50% />
 
 **Thought Process:** I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. The accessibility checks satisfied the corresponding *WCAG AA* and *WCAG AAA* standards. Additionally, incorporating a mainly black and white dark mode theme means that more colors can be used harmoniously. Additionally, pure white (#FFFFFF) was not used. A slightly lighter shade (#F9F9F9) was used to cause the least strain on the eyes as possible. Designing for accessibility helps everyone use a product better. A lot of the navigation for pages involve using the "Back" and "Next" buttons rather than swiping since button pressing may be more intuitive than just swiping. I also chose to similarly model the project after Facebook, since Facebook is relatively common among this demographic. 
 
@@ -43,7 +44,6 @@ Accessibility check satisfied for the newsfeed.
 ### Contrast Check for Questions:
 Accessibility check satisfied for the interactive search process.  
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/contrast_check_feed.png" width= 50% />
-
 
 ## Impression test 
 The link to the impression test video can be found [here](https://youtu.be/0oNr_uHMvYU).
