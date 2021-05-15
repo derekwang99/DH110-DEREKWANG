@@ -27,8 +27,6 @@ The link to the Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V
 * **Color Scheme:** 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Color%20Scheme.png" width= 50% style="padding: 20px" />
 
-![Color Scheme](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Color%20Scheme.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
-
 * **Grid Layout:**
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Grid%20Layout.png" width= 50% />
 
