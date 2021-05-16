@@ -1,7 +1,8 @@
 ## <ins> DH 110:</ins> User Experience and Design <br>
 
 Click here for the final prototype link on [Figma](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
-<ins> The Process </ins> 
+
+### <ins> The Process </ins> 
 
 [assignment01](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md) - Heuristic Evaluation 
 
