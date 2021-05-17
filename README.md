@@ -1,6 +1,6 @@
 ## <ins> DH 110:</ins> User Experience and Design <br>
 
-Click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1) for the prototype link on Figma.
+Click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1) for the in-progress prototype on Figma.
 
 ### <ins> The Process </ins> 
 
@@ -15,3 +15,4 @@ Click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?no
 [assignment05](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05) - Low-Fidelity Prototype
 
 [assignment06](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06) - Interactive Prototype
+
