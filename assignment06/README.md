@@ -53,7 +53,8 @@ Accessibility check satisfied for the newsfeed.
 Accessibility check satisfied for the interactive search process.  
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/contrast_check_feed.png" width= 50% />
 
-**Revised Version:**
+**Revised Version:**. 
+
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Revised_WCAG.png" width= 50% />
 
 ## Impression test 
