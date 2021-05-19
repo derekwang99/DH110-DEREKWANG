@@ -1,5 +1,7 @@
 ## <ins> DH 110:</ins> User Experience and Design <br>
 
+Goal: Design a solution to facilitate content sharing among senior citizens.
+
 Click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1) for the in-progress prototype on Figma.
 
 ### <ins> The Process </ins> 
