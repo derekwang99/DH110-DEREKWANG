@@ -69,7 +69,8 @@ Accessibility check satisfied for the interactive search process.
 The link to the impression test video can be found [here](https://youtu.be/0oNr_uHMvYU).
 
 ## Cognitive Walkthrough
-In Progress
+
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Cognitive_Walkthrough.png" width= 100% />
 
 ### Analysis of the test
 The user seemed to get the gist of the app, saying that it was a sort of fuse between Facebook and Instagram. Upon asking him what the questions were for, he correctly responded that it was likely to narrow down one's interests to find a group. The user did not have much to say about the intial slide designs (the emotion level check-up and the recommendations. 
