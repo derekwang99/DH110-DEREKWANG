@@ -79,4 +79,4 @@ The user seemed to get the gist of the app, saying that it was a sort of fuse be
 2. I added more screens to better support the prototype's goals and tasks.
 
 ## Reflection
-In Progress
+Overall, I found this assignment rather fun because I really got to practice prototyping and ended up creating supplemental features to make the entire project more cohesive. 
