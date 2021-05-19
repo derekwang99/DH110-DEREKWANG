@@ -14,5 +14,5 @@ Click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?no
 
 [assignment05](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05) - Low-Fidelity Prototype
 
-[assignment06 & 07](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06) - Interface Design System & Interactive Prototype
+[assignment06&07](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06) - Interface Design System & Interactive Prototype
 
