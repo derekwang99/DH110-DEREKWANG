@@ -79,4 +79,4 @@ The user seemed to get the gist of the app, saying that it was a sort of fuse be
 2. I added more screens to better support the prototype's goals and tasks.
 
 ## Reflection
-Overall, I found this assignment rather fun because I really got to practice prototyping and ended up creating supplemental features to make the entire project more cohesive. 
+Overall, I found this assignment rather fun because I really got to practice prototyping and ended up creating supplemental features to make the entire project more cohesive. I had to watch a lot of tutorials to get some things to work the way I wanted to, and should have used more of Figma's useful features like components and grouping. It would have saved me a lot of time and would have gave me more room for experimentation for fonts/colors/size. I think one area that I really need to improve on is transitions/animations. I would love to make my prototypes look more professional by making the transitions smoother and more complex, but that will require much independent study. I do plan to learn more about this topic over the summer and learn Adobe AfterEffects to integrate more animation into my prototypes. 
