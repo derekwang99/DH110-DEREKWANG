@@ -8,7 +8,7 @@ The project that I am designing involves creating a new mobile product that allo
 ## The Interactive Prototype's Supported Tasks
 
 1. Discover new communities with ease via the interactive search process.
-2. The ability to join and browse an existing community.
+2. The ability to browse an existing community.
 3. Message and interact with other senior citizens. 
 
 ## Screen Designs
@@ -65,3 +65,4 @@ The user seemed to get the gist of the app, saying that it was a sort of fuse be
 
 ## Revisions
 1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
+2. I added more screens to better supplement the prototype's goals and tasks.
