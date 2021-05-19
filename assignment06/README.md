@@ -64,4 +64,4 @@ The link to the impression test video can be found [here](https://youtu.be/0oNr_
 The user seemed to get the gist of the app, saying that it was a sort of fuse between Facebook and Instagram. Upon asking him what the questions were for, he correctly responded that it was likely to narrow down one's interests to find a group. The user did not have much to say about the intial slide designs (the emotion level check-up and the recommendations. 
 
 ## Revisions
-1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey to pitch black, which now satisfies WCAG AAA. 
+1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
