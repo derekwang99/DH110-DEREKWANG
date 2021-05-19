@@ -24,6 +24,14 @@ The link to the prototype on Figma can be found [here](https://www.figma.com/fil
 ### Variants
 ![Variants](/assignment06/Variants.png)
 
+## Wireframes
+
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT1.png" width= 50% />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT2.png" width= 50% />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT3.png" width= 50% />
+
+
+
 ## UI Decision Making
 
 ## Design System
