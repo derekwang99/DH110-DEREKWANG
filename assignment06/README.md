@@ -26,9 +26,9 @@ The link to the prototype on Figma can be found [here](https://www.figma.com/fil
 
 ## Wireframes
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT1.png" width= 50% />
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT2.png" width= 50% />
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT3.png" width= 50% />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT1.png" width= 100% />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT2.png" width= 100% />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment06/Wireframe%20PT3.png" width= 100% />
 
 
 
