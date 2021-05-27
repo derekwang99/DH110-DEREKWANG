@@ -62,9 +62,21 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 ###### Reflection
 
-This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
+Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
 
 ### UX Storytelling
+
+
+1. Xinchen (Cindy) Zhang
+
+The purpose of UX storytelling is to present a narrative that provides a natural and engaging way to describe the use of a product or the point of a user experience. UX storytelling helps us explain difficult concepts and the additional context allows our audience to connect better. Examples of this context include the user's emotions, reactions, motivations, needs, behaviors, and inner thoughts. This sort of qualitative context is difficult to discover from quantative data. A unique benefit of UX storytelling is that stories spark our imagination and give us the freedom to make up any scenario. As a result, multiple solutions can be thought by different people making up their own stories. 
+
+![](/assignment04/assginment%2004/Cindy%20Zhang.png)
+
+![](/assignment04/assginment%2004/Frame%201.png)
+
+</br>
+
 
 ### Wireframes and Graphic Design Element Variation
 
