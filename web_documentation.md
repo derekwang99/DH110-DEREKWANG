@@ -23,7 +23,7 @@ THe purpose of this project is to create a product that connects local senior ci
 | Overall Evaluiation |   This app would be very difficult for senior citizens to navigate given that many things are ambiguous and cryptic. This app contains poor choice of iconography and contains uncommon jargon like "Print Waiting ..." that increase cognitive load. Users would be constantly frustrated by frequently opening the camera function on accident since the Upload Image button is large and in the middle of the screen. Users would also be frustrated by the inability to undo an action--one page actually requires the user to restart the app to get back to homepage. Moreover, there are unnecessary animations and startling sounds that would confuse and even scare tech-averse users. This app requires major improvement.      | Overall, this is a functional app that gets the job done. However, the lack of description and overreliance of iconography may leave users confused, especially for the elder demographic. This app could also benefit from better grouping of icons/content. A carousel is at the top of the screen, but only serves as clutter as it repeats information listed (as buttons) on the bottom. This carousel implies that the contents are buttons, but are in fact static images, which may frustrate the user. Additionally, some functions are placed on the wrong page, and some functions need not take up an entire slot. For example, Settings could easily be tucked away as a smaller icon and placed on the top righthand corner to reduce clutter.
 
 
-#### Usability Testing
+#### Usability Testing:
 
 
 ##### Interview Video Link:
@@ -35,6 +35,34 @@ The usability test interview video can be found by clicking the thumbnail.
 The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning, and taught me much about the usability test process. The pilot test taught me to be cognizant of what I say and what I do. Behaving a certain way, even subconsciously, can alter the user's results during the interview. Thus it is important to be careful every step of the way. Since the user can look at the app with fresh eyes and a new perspective, they were able to catch more issues that I overlooked. Overall, the interview went well! The user successfully completed most tasks and had a lot of feedback for the app. However, a few things could be improved. Firstly, I could have rehearsed the script better so that I would sound more natural. Secondly, towards the end, I was unsure whether to vocalize the instructions or not since they were rather self explanatory--the user was likely starting to grow impatient and began to complete the page before I even prompted them to do so. Thirdly, there was a typo that caught me off guard and caused me to break my train of thought. Hollistically, the usability test was a relative success. The participant did enunciate some of his thinking process and pointed out some issues. The participant had little issue interpreting my tasks, which I particularly appreciate. To improve my usability tests in the future, the next time I will rehearse more, keep a consistent way of conducting the experiment, and double check the survey for grammatical errors or typos for the sake of professionalism.
 
 ### User Research
+
+
+## Materials 
+
+##### Insights
+
+1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
+> "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
+
+2. Here, the interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. The elder generation may appreciate higher quality content--throughout the session, the interviewee talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
+> "What aspects of this content was interesting?"  
+
+> "Well, um, the way they shoot the video, I feel it's not I don't want to say professional, but it's very attractive to, to view like, you know, the view the music and along with the, the interesting topics, plus the character. So you really want to continue to, to see what's going on and work through them prepare."
+ 
+3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
+> Do you feel welcome in this community (Santa Clarita Foodies)?  
+
+> Welcome? Well nobody cares (if I am around).
+
+4. People like learning new things and gaining more knowledge, especially about technology. Additionally, I learned that the elder generation likes learning about the current state of society because they may feel left out and "behind the times". I think reintegrating the elder generation into society would be conducive to their overall mental health. 
+> "Overall, how do you feel about today's activity?"
+
+> "It's...It's fun, it's interesting to learn, you know, different things."
+
+
+###### Reflection
+
+This assignment made me appreciate the value of good questions. Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
 
 ### UX Storytelling
 
