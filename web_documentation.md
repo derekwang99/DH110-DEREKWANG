@@ -73,18 +73,26 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 ![](/assignment04/assginment%2004/Frame%201.png)
 
 
-### Wireframes and Graphic Design Element Variation
+### Wireframes and Low-Fidelity Prototype
 
 ![wireframe wireflow](/assignment05/IMG_2895.png)
 
 Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
 
-### Low-Fidelity Prototype
-
 ### High-Fidelity Prototype
 
+![Screen Designs](/assignment06/Revised_Screens.png)
+
+The link to the prototype on Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and the presentation view can be found [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
+
+
 ### Evaluation and Revision History
+
+Revisions: 
+1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
+2. I added more screens to better support the prototype's goals and tasks.
+
 
 ### Pitch Video
 
