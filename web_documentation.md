@@ -8,7 +8,25 @@ As a result of the COVID-19 Pandemic, people have had to adapt to the new status
 
 ### Design Statement
 
+THe purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship.
+
 ### Competitor Analysis: Heuristics Evaluation
+
+
+|      | Applifcation 1| Application 2 |
+|--------|------------| ------- |
+| Name      | Senior Assist | Anvayaa | 
+| URL      | https://apps.apple.com/us/app/senior-assist-reminder-learning/id1079081521 | https://apps.apple.com/us/app/anvayaa/id1123534017
+| Screenshot      | <p align ="middle">
+  <img src="/Images/Senior%20Assist%20Homepage.jpg" width="400" />
+  <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="400" /> 
+</p> | 
+<p align ="middle">
+  <img src="/Images/Anvayaa%20Homepage.PNG" width="400" />
+  <img src="/Images/Anvayaa%20Profile%20Page.PNG" width="400" /> 
+</p> |
+| Overall Evaluiation |        | 
+
 
 ### Competitor Analysis: Usability Testing
 
