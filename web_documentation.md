@@ -17,10 +17,7 @@ THe purpose of this project is to create a product that connects local senior ci
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
 | URL      | https://apps.apple.com/us/app/senior-assist-reminder-learning/id1079081521 | https://apps.apple.com/us/app/anvayaa/id1123534017
-| Screenshot | <img src="/Images/Senior%20Assist%20Homepage.jpg" width="250" /> <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="250" /> <br /> | |
-
-![](/Images/Senior%20Assist%20Homepage.jpg") ![]("/Images/Senior%20Assist%20Print%20Function.jpg") | 
-<p align ="middle">
+| Screenshot | <img src="/Images/Senior%20Assist%20Homepage.jpg" width="150" /> <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="150" /> <br /> | |
   <img src="/Images/Anvayaa%20Homepage.PNG" width="400" />
   <img src="/Images/Anvayaa%20Profile%20Page.PNG" width="400" /> 
 </p> |
