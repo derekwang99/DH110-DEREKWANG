@@ -1,4 +1,4 @@
-## <ins> DH 110:</ins> User Experience and Design <br>
+## <ins> DH 110:</ins> User Experience and Design with Dr. Sookie Cho <br>
 
 **Course Theme:** Design a solution to facilitate content sharing for senior citizens.
 
