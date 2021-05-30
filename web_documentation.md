@@ -116,23 +116,34 @@ It is necessary to consider that this demographic is usually not tech savvy and 
 
 ### UI Decision Making for the Senior Citizen Demographic
 
-## Graphic Design Element Variations
+#### Graphic Design Element Variations
 
 I created different yellow/lilac variants to see which theme best fit Senior Circle. In the end, I still went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode). Perhaps in the future, users could chose their favorite color to set the app's color theme. Customizability makes a product more useful to use. 
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
 
+#### Accessibility
 
-Final Screen Layout:
+Because we are designing for the elderly in mind, the WCAG AA and AAA standard has been satisfied. 
+
+To learn more about the high-fidelity prototyping process and testing (impression test & cognitive walkthrough), click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06)
+
+
+
+#### Final Screen Layout:
+
+And finally, we arrive at our final prototype:
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> 
 
+
+For our project, the prototype aims to provide these three basic capabiliities:
+
+* Discover new communities with ease via the interactive search process.
+* The ability to browse an existing community.
+* Message and interact with other senior citizens
+
 To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and to actually interact witht the final prototype, click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
-
-<figure class="video_container">
-  <iframe src="https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1" width="420" height="345" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 
 <br>
 
