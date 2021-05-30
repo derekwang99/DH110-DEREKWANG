@@ -69,9 +69,10 @@ To further understand our users, I performed UX storytelling through user person
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Zhang.png" width="500" />
 
 
-![](/assignment04/assginment%2004/Cindy%20Zhang.png)
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Frame%201.png" width="500" />
 
-![](/assignment04/assginment%2004/Frame%201.png)
+
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Journey%20Map.png" width="500" />
 
 
 ## Wireframes and Low-Fidelity Prototype
