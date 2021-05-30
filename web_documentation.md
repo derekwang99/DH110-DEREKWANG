@@ -39,23 +39,28 @@ The full pilot usability test and materials can be found [here](https://github.c
 
 To further investigate how elder users interact with technology that is catered to them, I conducted contextual inquiry by observing how the participant navigates around Facebook, an open-ended social media app that fits all demographics.
 
-#### Insights
+### Insights
 
 After conducting the contextual inquiry, I found some insights to be interesting:
 
 1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
 > "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
 
-2. Here, the interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. The elder generation may appreciate higher quality content--throughout the session, the interviewee talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
+2. The elder generation may appreciate higher quality content.
+
 > "What aspects of this content was interesting?"  
 
 > "Well, um, the way they shoot the video, I feel it's not I don't want to say professional, but it's very attractive to, to view like, you know, the view the music and along with the, the interesting topics, plus the character. So you really want to continue to, to see what's going on and work through them prepare."
+
+ The interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. Later, she talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
  
-3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
+3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. 
+
 > Do you feel welcome in this community (Santa Clarita Foodies)?  
 
 > Welcome? Well nobody cares (if I am around).
 
+The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
 
 ## UX Storytelling
 
