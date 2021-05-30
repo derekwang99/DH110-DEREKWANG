@@ -14,9 +14,9 @@ The purpose of this project is to create a product that connects local senior ci
 
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
-<img src="hhttps://drive.google.com/file/d/1dhJsoP72URsnF4dhE5AS8a_Q5LFhgh4T/view?usp=sharing" width="150" /> 
+<img src="https://drive.google.com/file/d/1dhJsoP72URsnF4dhE5AS8a_Q5LFhgh4T/view?usp=sharing" width="150" /> 
 
-|      | Applifcation 1| Application 2 |
+|      | Application 1| Application 2 |
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
 | URL      | https://apps.apple.com/us/app/senior-assist-reminder-learning/id1079081521 | https://apps.apple.com/us/app/anvayaa/id1123534017
