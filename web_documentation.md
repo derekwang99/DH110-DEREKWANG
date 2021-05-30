@@ -26,6 +26,8 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 
 #### Usability Testing:
 
+As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Facebook. The interview link can be found 
+
 
 ##### Interview Video Link:
 The usability test interview video can be found by clicking the thumbnail. 
