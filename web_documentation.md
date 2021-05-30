@@ -1,18 +1,16 @@
-# Senior Circle
+# Senior Circle by Derek Wang
 
-## Derek Wang
-
-### Introduction
+## Introduction
 
 As a result of the COVID-19 Pandemic, people have had to adapt to the new status quo. However, an invisible, vulnerable population is often left out of the discourse: senior citizens. Senior citizens need an easy way to use technology to adapt to the isolating circumstances we face today. I believe that senior citizens would greatly benefit from an app that promotes socialization and counsels mental health. Building upon these two concepts and incorporating user-centered design for the elder demographic could mean greater accessibility and quality of life for them, especially during these trying times.
 
-### Design Statement
+## Design Statement
 
 The purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship. This project aims to not only make communication between senior citizens more accessible by providing a space dedicated to their age group, but also to create a friendly product that is as personal as possible to make users feel cared for. 
 
-### Competitor Analysis
+## Competitor Analysis
 
-#### Heuristic Evaluation
+### Heuristic Evaluation
 
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
@@ -25,7 +23,7 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 
 The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
 
-#### Usability Testing of Senior Assist and Anvayaa:
+### Usability Testing of Senior Assist and Anvayaa:
 
 As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
@@ -37,11 +35,11 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
-### User Research
+## User Research
 
 To further investigate how elder users interact with technology that is catered to them, I conducted contextual inquiry by observing how the participant navigates around Facebook, an open-ended social media app that fits all demographics.
 
-##### Insights
+#### Insights
 
 After conducting the contextual inquiry, I found some insights to be interesting:
 
@@ -59,7 +57,7 @@ After conducting the contextual inquiry, I found some insights to be interesting
 > Welcome? Well nobody cares (if I am around).
 
 
-### UX Storytelling
+## UX Storytelling
 
 
 1. Xinchen (Cindy) Zhang
@@ -71,14 +69,14 @@ The purpose of UX storytelling is to present a narrative that provides a natural
 ![](/assignment04/assginment%2004/Frame%201.png)
 
 
-### Wireframes and Low-Fidelity Prototype
+## Wireframes and Low-Fidelity Prototype
 
 ![wireframe wireflow](/assignment05/IMG_2895.png)
 
 Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
 
-### High-Fidelity Prototype
+## High-Fidelity Prototype
 
 Layout:
 ![Screen Designs](/assignment06/Revised_Screens.png)
@@ -86,15 +84,15 @@ Layout:
 The link to the prototype on Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and the presentation view can be found [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
 
 
-### Evaluation and Revision History
+## Evaluation and Revision History
 
 Revisions: 
 1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
 2. I added more screens to better support the prototype's goals and tasks.
 
 
-### Pitch Video
+## Pitch Video
 
 In Progress
 
-### Conclusion & Reflection
+## Conclusion & Reflection
