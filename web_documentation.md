@@ -14,7 +14,7 @@ The purpose of this project is to create a product that connects local senior ci
 
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
-<img src="https://drive.google.com/file/d/1dhJsoP72URsnF4dhE5AS8a_Q5LFhgh4T/view?usp=sharing" width="150" /> 
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg?raw=true" width="150" /> 
 
 |      | Application 1| Application 2 |
 |--------|------------| ------- |
