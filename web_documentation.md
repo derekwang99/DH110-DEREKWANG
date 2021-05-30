@@ -14,13 +14,11 @@ The purpose of this project is to create a product that connects local senior ci
 
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg?raw=true" width="150" /> 
-
 |      | Application 1| Application 2 |
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
 | URL      | https://apps.apple.com/us/app/senior-assist-reminder-learning/id1079081521 | https://apps.apple.com/us/app/anvayaa/id1123534017
-| Screenshot | <img src="/Images/Senior%20Assist%20Homepage.jpg" width="150" /> <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="150" /> <br /> | <img src="/Images/Anvayaa%20Homepage.PNG" width="150" /> <img src="/Images/Anvayaa%20Profile%20Page.PNG" width="150" /> |
+| Screenshot | <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg?raw=true" width="150" />  <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="150" /> <br /> | <img src="/Images/Anvayaa%20Homepage.PNG" width="150" /> <img src="/Images/Anvayaa%20Profile%20Page.PNG" width="150" /> |
 | Overall Evaluiation |   This app would be very difficult for senior citizens to navigate given that many things are ambiguous and cryptic. This app contains poor choice of iconography and contains uncommon jargon like "Print Waiting ..." that increase cognitive load. Users would be constantly frustrated by frequently opening the camera function on accident since the Upload Image button is large and in the middle of the screen. Users would also be frustrated by the inability to undo an action--one page actually requires the user to restart the app to get back to homepage. Moreover, there are unnecessary animations and startling sounds that would confuse and even scare tech-averse users. This app requires major improvement.      | Overall, this is a functional app that gets the job done. However, the lack of description and overreliance of iconography may leave users confused, especially for the elder demographic. This app could also benefit from better grouping of icons/content. A carousel is at the top of the screen, but only serves as clutter as it repeats information listed (as buttons) on the bottom. This carousel implies that the contents are buttons, but are in fact static images, which may frustrate the user. Additionally, some functions are placed on the wrong page, and some functions need not take up an entire slot. For example, Settings could easily be tucked away as a smaller icon and placed on the top righthand corner to reduce clutter.
 
 The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
