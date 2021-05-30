@@ -28,7 +28,7 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 
 The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
 
-#### Usability Testing:
+#### Usability Testing of Senior Assist and Anvayaa:
 
 As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
