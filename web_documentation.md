@@ -34,7 +34,7 @@ The full heuristic evaluation can be found [here](https://github.com/derekwang99
 As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/7dqTuaKRRkg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
