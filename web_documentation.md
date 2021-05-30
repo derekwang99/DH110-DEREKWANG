@@ -27,7 +27,7 @@ The full heuristic evaluation can be found [here](https://github.com/derekwang99
 
 #### Usability Testing:
 
-As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Facebook. The interview link can be found below.
+As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
 <iframe
   src="https://youtu.be/7dqTuaKRRkg"
@@ -45,9 +45,11 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 ### User Research
 
+To further investigate how elder users interact with technology that is catered to them, I conducted contextual inquiry by observing how the participant navigates around Facebook, an open-ended social media app that fits all demographics.
+
 ##### Insights
 
-After conducting the pilot UT, I found some insights to be interesting:
+After conducting the contextual inquiry, I found some insights to be interesting:
 
 1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
 > "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
