@@ -103,9 +103,7 @@ Based on user research, the most important features of the low-fidelity prototyp
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment05/IMG_2895.png" width="900" />
 
-![wireframe wireflow](/assignment05/IMG_2895.png)
-
-Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
+**Flow description:** This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
 
 More details about the low-fidelity prototyping process and wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).
@@ -114,22 +112,20 @@ More details about the low-fidelity prototyping process and wireframe testing ca
 
 ## High-Fidelity Prototype
 
-It is necessary to consider that this demographic is usually not tech savvy and may have physical impairments or disabilities that make using technology difficult (e.g. myopia/hyperopia, arthritis, limited mobility). Additionally, this demographic maybe also address technology with skepticism or may even fear using technology. It is necessary to design a system/interface that is as simple and easy to read.
+It is necessary to consider that this demographic is usually not tech savvy and may have physical impairments or disabilities that make using technology difficult (e.g. myopia/hyperopia, arthritis, limited mobility). Additionally, this demographic maybe also address technology with skepticism or may even fear using technology. As such, it is necessary to design a system/interface that is as simple, easy to read, and enjoyable.
 
-### UI Decision Making
-
+### UI Decision Making for the Senior Citizen Demographic
 
 ## Graphic Design Element Variations
 
-I created different variants to see which theme best fit Senior Circle. In the end, I went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode).
+I created different yellow/lilac variants to see which theme best fit Senior Circle. In the end, I still went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode). Perhaps in the future, users could chose their favorite color to set the app's color theme. Customizability makes a product more useful to use. 
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
 
 
-### 
+Screen Layout:
 
-Layout:
-![Screen Designs](/assignment06/Revised_Screens.png)
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> 
 
 The link to the prototype on Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and the presentation view can be found [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
 
@@ -138,12 +134,13 @@ The link to the prototype on Figma can be found [here](https://www.figma.com/fil
 
 
 
-
 ## Evaluation and Revision History
 
 Revisions: 
 1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
 2. I added more screens to better support the prototype's goals and tasks.
+
+Revision details can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06).
 
 <br>
 
