@@ -89,7 +89,25 @@ More about the UX storytelling process can be found [here](https://github.com/de
 
 <br>
 
-## Wireframes and Low-Fidelity Prototype
+## Wireframes and Graphic Design Element Variation
+
+The purpose of this wireframe is to test out our assumptions and translate them into the basic framework of our product to see if the functionalities makes sense to older users. We can then adjust the prototype according the user feedback.
+
+Based on user research, the most important features of the low-fidelity prototype will be able to do the following:
+
+* Create an interactive (question-based) filtering search process to make finding a community simpler.
+* The ability to join an existing community
+* Contact another person and/or create a groupchat
+
+Below is the wireframe I created:
+
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment05/IMG_2895.png" width="900" />
+
+More details about the wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).
+
+<br>
+
+## Low-Fidelity Prototype
 
 ![wireframe wireflow](/assignment05/IMG_2895.png)
 
@@ -98,6 +116,9 @@ Flow description: This flow intends for the user to search for a community based
 <br>
 
 ## High-Fidelity Prototype
+
+
+It is necessary to consider that this demographic is usually not tech savvy and may have physical impairments or disabilities that make using technology difficult (e.g. myopia/hyperopia, arthritis, limited mobility). Additionally, this demographic maybe also address technology with skepticism or may even fear using technology. It is necessary to design a system/interface that is as simple and easy to read.
 
 Layout:
 ![Screen Designs](/assignment06/Revised_Screens.png)
