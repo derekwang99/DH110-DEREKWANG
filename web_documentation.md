@@ -89,7 +89,7 @@ More about the UX storytelling process can be found [here](https://github.com/de
 
 <br>
 
-## Wireframes and Graphic Design Element Variation
+## Wireframe/Low-Fidelity Prototype and Graphic Design Element Variation
 
 The purpose of this wireframe is to test out our assumptions and translate them into the basic framework of our product to see if the functionalities makes sense to older users. We can then adjust the prototype according the user feedback.
 
@@ -99,19 +99,16 @@ Based on user research, the most important features of the low-fidelity prototyp
 * The ability to join an existing community
 * Contact another person and/or create a groupchat
 
-Below is the wireframe I created:
+## Low-Fidelity Prototype
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment05/IMG_2895.png" width="900" />
-
-More details about the wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).
-
-<br>
-
-## Low-Fidelity Prototype
 
 ![wireframe wireflow](/assignment05/IMG_2895.png)
 
 Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
+
+
+More details about the low-fidelity prototyping process and wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).
 
 <br>
 
