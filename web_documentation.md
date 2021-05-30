@@ -47,6 +47,8 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 ##### Insights
 
+After conducting the pilot UT, I found some insights to be interesting:
+
 1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
 > "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
 
@@ -60,18 +62,7 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 > Welcome? Well nobody cares (if I am around).
 
-4. People like learning new things and gaining more knowledge, especially about technology. Additionally, I learned that the elder generation likes learning about the current state of society because they may feel left out and "behind the times". I think reintegrating the elder generation into society would be conducive to their overall mental health. 
-> "Overall, how do you feel about today's activity?"
-
-> "It's...It's fun, it's interesting to learn, you know, different things."
-
-
-###### Reflection
-
-Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
-
-
-The full pilot usability test can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment02/A01.md).
+The full pilot usability test can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
 
 ### UX Storytelling
