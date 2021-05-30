@@ -124,7 +124,7 @@ I created different yellow/lilac variants to see which theme best fit Senior Cir
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
 
-To learn more about the high-fidelity prototyping process, testing (impression test & cognitive walkthrough), and revision history, click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06).
+*To learn more about the high-fidelity prototyping process, testing (impression test & cognitive walkthrough), and revision history, click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06).*
 
 
 ### Final Screen Layout:
@@ -151,4 +151,4 @@ In Progress
 
 ## Conclusion & Reflection
 
-This project took quite a lot of independent research, especially when it came to actually prototyping, but I found the whole process to be quite interesting and very meaningful. I found it very satisfying to see that each decision I made when it came to functionality or interface design was indeed motivated by a real concern for the user. It is through this project that I realize that designing for accessibility helps everyone use a product better--everyone benefits from improved readability and guided product usage.
+This project took quite a lot of independent research, especially when it came to the actual prototyping process. However, I found the whole process to be quite interesting and very meaningful. I found it very satisfying to see that each decision I made when it came to functionality or interface design was indeed motivated by a real concern for the user. It is through this project that I realize that designing for accessibility helps everyone use a product better--everyone benefits from improved readability and guided product usage.
