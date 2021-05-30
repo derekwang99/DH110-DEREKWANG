@@ -71,6 +71,7 @@ The elder generation may not really care about metrics of likes or views as much
 
 More on the results of the contexual inquiry and insights can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment03).
 
+<br>
 
 ## UX Storytelling
 
