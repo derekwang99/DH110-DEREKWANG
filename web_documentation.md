@@ -43,10 +43,10 @@ To further investigate how elder users interact with technology that is catered 
 
 After conducting the contextual inquiry, I found some insights to be interesting:
 
-1. Members of the elder generation that aren't good with technology learn about trending topics through their children.
+##### Members of the elder generation that aren't good with technology learn about trending topics through their children.
 > "So my kids, they, they're more alert to trending topics. And some of my friends will send me YouTube too. So if I have time I will watch."
 
-2. The elder generation may appreciate higher quality content.
+##### The elder generation may appreciate higher quality content.
 
 > "What aspects of this content was interesting?"  
 
@@ -54,7 +54,7 @@ After conducting the contextual inquiry, I found some insights to be interesting
 
 The interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. Later, she talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
  
-3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. 
+##### The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. 
 
 > Do you feel welcome in this community (Santa Clarita Foodies)?  
 
