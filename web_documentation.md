@@ -16,11 +16,6 @@ The purpose of this project is to create a product that connects local senior ci
 
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg" width="150" />
-
-<img src="./Images/Senior%20Assist%20Homepage.jpg" width="150" /> 
-
-
 |      | Applifcation 1| Application 2 |
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
@@ -38,7 +33,7 @@ As a part of the competitve analysis, I conducted a pilot usability test to lear
   <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" width="420" height="345" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant did 
+The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages, especially on Senior Assist. 
 
 The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
