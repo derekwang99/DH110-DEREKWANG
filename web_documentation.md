@@ -14,7 +14,7 @@ The purpose of this project is to create a product that connects local senior ci
 
 #### Heuristic Evaluation
 
-While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
+While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
 |      | Applifcation 1| Application 2 |
 |--------|------------| ------- |
@@ -23,10 +23,16 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 | Screenshot | <img src="/Images/Senior%20Assist%20Homepage.jpg" width="150" /> <img src="/Images/Senior%20Assist%20Print%20Function.jpg" width="150" /> <br /> | <img src="/Images/Anvayaa%20Homepage.PNG" width="150" /> <img src="/Images/Anvayaa%20Profile%20Page.PNG" width="150" /> |
 | Overall Evaluiation |   This app would be very difficult for senior citizens to navigate given that many things are ambiguous and cryptic. This app contains poor choice of iconography and contains uncommon jargon like "Print Waiting ..." that increase cognitive load. Users would be constantly frustrated by frequently opening the camera function on accident since the Upload Image button is large and in the middle of the screen. Users would also be frustrated by the inability to undo an action--one page actually requires the user to restart the app to get back to homepage. Moreover, there are unnecessary animations and startling sounds that would confuse and even scare tech-averse users. This app requires major improvement.      | Overall, this is a functional app that gets the job done. However, the lack of description and overreliance of iconography may leave users confused, especially for the elder demographic. This app could also benefit from better grouping of icons/content. A carousel is at the top of the screen, but only serves as clutter as it repeats information listed (as buttons) on the bottom. This carousel implies that the contents are buttons, but are in fact static images, which may frustrate the user. Additionally, some functions are placed on the wrong page, and some functions need not take up an entire slot. For example, Settings could easily be tucked away as a smaller icon and placed on the top righthand corner to reduce clutter.
 
+The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
 
 #### Usability Testing:
 
-As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Facebook. The interview link can be found 
+As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Facebook. The interview link can be found below.
+
+<iframe
+  src="https://youtu.be/7dqTuaKRRkg"
+  style="width:100%; height:300px;"
+></iframe>
 
 
 ##### Interview Video Link:
@@ -63,6 +69,10 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 ###### Reflection
 
 Throughout the script development process, I found it quite difficult to find relevant questions because I found my scope of the project to be a bit too broad. I think I will try to narrow down my project in the subsequent weeks. I also found it difficult to word questions in a neutral way. For example, I was going to ask "Would you prefer there to be a moderator in the community? Or would you prefer the community to be more unstructured?". Unstructured has an inherent assoication to being poorly managed. As such, I had to brainstorm ways to ask this. I ultimately settled on "Would you prefer the presence of a moderator or leader in your community? Or would you prefer the presence of such a figure to be kept at a minimum?", which sounds a bit more neutral. This activity made me realize that sometimes it is more natural to veer off the script and allow the interviewee to really delve into whatever they’re saying. I found their answer to be much more genuine that way. However, I think it has to be balanced with how long you let them speak and how far you let them veer off course because I feel like the interview would have taken 2 hours had I not intervened at times. A particularly important insight that I gained is that the interviewer must give enough background information and specific enough activities to the interviewees because they are not as accustomed to using recent technology. The interviewee struggled to even begin the activity so I had to guide them at times. Ultimately, this activity made me appreciate the value of different perspectives across ages because the learning process, reactions, and content generation are all different.
+
+
+The full pilot usability test can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment02/A01.md).
+
 
 ### UX Storytelling
 
