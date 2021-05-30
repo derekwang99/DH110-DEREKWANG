@@ -25,7 +25,7 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 | Screenshot | <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg?raw=true" width="150" />  <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Print%20Function.jpg?raw=true" width="150" /> <br /> | <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Anvayaa%20Homepage.PNG?raw=true" width="150" /> <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Anvayaa%20Profile%20Page.PNG?raw=true" width="150" /> |
 | Overall Evaluiation |   This app would be very difficult for senior citizens to navigate given that many things are ambiguous and cryptic. This app contains poor choice of iconography and contains uncommon jargon like "Print Waiting ..." that increase cognitive load. Users would be constantly frustrated by frequently opening the camera function on accident since the Upload Image button is large and in the middle of the screen. Users would also be frustrated by the inability to undo an action--one page actually requires the user to restart the app to get back to homepage. Moreover, there are unnecessary animations and startling sounds that would confuse and even scare tech-averse users. This app requires major improvement.      | Overall, this is a functional app that gets the job done. However, the lack of description and overreliance of iconography may leave users confused, especially for the elder demographic. This app could also benefit from better grouping of icons/content. A carousel is at the top of the screen, but only serves as clutter as it repeats information listed (as buttons) on the bottom. This carousel implies that the contents are buttons, but are in fact static images, which may frustrate the user. Additionally, some functions are placed on the wrong page, and some functions need not take up an entire slot. For example, Settings could easily be tucked away as a smaller icon and placed on the top righthand corner to reduce clutter.
 
-The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
+*The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).*
 
 ### Usability Testing of Senior Assist and Anvayaa:
 
@@ -37,7 +37,7 @@ As a part of the competitve analysis, I conducted a pilot usability test to lear
 
 The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages.
 
-The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
+*The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).*
 
 <br>
 
@@ -69,7 +69,7 @@ The interviewee chose to watch a 25 minute-long documentary-esque video on cooki
 The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
 
 
-More on the results of the contexual inquiry and insights can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment03).
+*More on the results of the contexual inquiry and insights can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment03).*
 
 <br>
 
@@ -85,7 +85,7 @@ To further understand our users, I performed UX storytelling through user person
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Journey%20Map.png" width="900" />
 
-More about the UX storytelling process can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04).
+*More about the UX storytelling process can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04).*
 
 <br>
 
@@ -106,7 +106,7 @@ Based on user research, the most important features of the low-fidelity prototyp
 **Flow description:** This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
 
-More details about the low-fidelity prototyping process and wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).
+*More details about the low-fidelity prototyping process and wireframe testing can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment05).*
 
 <br>
 
