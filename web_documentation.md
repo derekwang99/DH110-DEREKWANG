@@ -31,7 +31,7 @@ As a part of the competitve analysis, I conducted a pilot usability test to lear
   <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" width="420" height="345" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages, especially on Senior Assist. 
+The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages.
 
 The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
