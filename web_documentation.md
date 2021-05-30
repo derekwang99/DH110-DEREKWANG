@@ -129,6 +129,10 @@ Final Screen Layout:
 
 To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and to actually interact witht the final prototype, click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
 
+<figure class="video_container">
+  <iframe src="https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1" width="420" height="345" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 <br>
 
