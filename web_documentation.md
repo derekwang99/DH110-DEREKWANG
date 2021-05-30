@@ -14,7 +14,8 @@ The purpose of this project is to create a product that connects local senior ci
 
 #### Heuristic Evaluation
 
-While I could not find direct competitors of Senior Circle, I found some apps that are catered for seniors and analyzed their interface and user experience.
+While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. The full heuristic evaluation can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/blob/main/assignment01/A01.md).
+
 |      | Applifcation 1| Application 2 |
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
