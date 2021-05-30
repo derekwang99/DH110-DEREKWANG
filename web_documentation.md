@@ -144,7 +144,7 @@ And finally, we arrive at our final prototype:
 
 Feel free to interact with the prototype below!
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1000" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6x37Y0Goi7V6a4eY8SFdH8%2FDH110-Project%3Fpage-id%3D0%253A1%26node-id%3D31%253A96%26viewport%3D683%252C425%252C0.34515243768692017%26scaling%3Dscale-down" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="900" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6x37Y0Goi7V6a4eY8SFdH8%2FDH110-Project%3Fpage-id%3D0%253A1%26node-id%3D31%253A96%26viewport%3D683%252C425%252C0.34515243768692017%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 <br>
 
