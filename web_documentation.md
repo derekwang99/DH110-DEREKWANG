@@ -8,13 +8,13 @@ As a result of the COVID-19 Pandemic, people have had to adapt to the new status
 
 ### Design Statement
 
-THe purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship.
+The purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship. This project aims to not only make communication between senior citizens more accessible by providing a space dedicated to their age group, but also to create a friendly product that is as personal as possible to make users feel cared for. 
 
 ### Competitor Analysis
 
 #### Heuristic Evaluation
 
-
+While I could not find direct competitors of Senior Circle, I found some apps that are catered for seniors and analyzed their interface and user experience.
 |      | Applifcation 1| Application 2 |
 |--------|------------| ------- |
 | Name      | Senior Assist | Anvayaa | 
