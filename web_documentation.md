@@ -18,6 +18,8 @@ While I could not find direct competitors of Senior Circle, I was able to find s
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg" width="150" />
 
+<img src="/Images/Senior%20Assist%20Homepage.jpg" width="150" /> 
+
 
 |      | Applifcation 1| Application 2 |
 |--------|------------| ------- |
