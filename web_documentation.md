@@ -89,7 +89,7 @@ More about the UX storytelling process can be found [here](https://github.com/de
 
 <br>
 
-## Wireframe/Low-Fidelity Prototype and Graphic Design Element Variation
+## Wireframe/Low-Fidelity Prototype
 
 The purpose of this wireframe is to test out our assumptions and translate them into the basic framework of our product to see if the functionalities makes sense to older users. We can then adjust the prototype according the user feedback.
 
@@ -114,8 +114,19 @@ More details about the low-fidelity prototyping process and wireframe testing ca
 
 ## High-Fidelity Prototype
 
-
 It is necessary to consider that this demographic is usually not tech savvy and may have physical impairments or disabilities that make using technology difficult (e.g. myopia/hyperopia, arthritis, limited mobility). Additionally, this demographic maybe also address technology with skepticism or may even fear using technology. It is necessary to design a system/interface that is as simple and easy to read.
+
+### UI Decision Making
+
+
+## Graphic Design Element Variations
+
+I created different variants to see which theme best fit Senior Circle. In the end, I went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode).
+
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
+
+
+### 
 
 Layout:
 ![Screen Designs](/assignment06/Revised_Screens.png)
@@ -124,6 +135,9 @@ The link to the prototype on Figma can be found [here](https://www.figma.com/fil
 
 
 <br>
+
+
+
 
 ## Evaluation and Revision History
 
