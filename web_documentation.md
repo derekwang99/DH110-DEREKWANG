@@ -131,7 +131,10 @@ I created different yellow/lilac variants to see which theme best fit Senior Cir
 
 And finally, we arrive at our final prototype:
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" />         
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> \
+
+
+*To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1).
 
 For our project, the prototype aims to provide these three basic capabiliities:
 
@@ -139,11 +142,12 @@ For our project, the prototype aims to provide these three basic capabiliities:
 * The ability to browse an existing community.
 * Message and interact with other senior citizens
 
-*To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and to actually interact with the final prototype, click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).*
+Feel free to interact with the prototype below!
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6x37Y0Goi7V6a4eY8SFdH8%2FDH110-Project%3Fpage-id%3D0%253A1%26node-id%3D31%253A96%26viewport%3D683%252C425%252C0.34515243768692017%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 <br>
 
-<iframe src="https://player.vimeo.com/video/425708491" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Pitch Video
 
