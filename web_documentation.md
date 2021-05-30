@@ -139,7 +139,7 @@ For our project, the prototype aims to provide these three basic capabiliities:
 * The ability to browse an existing community.
 * Message and interact with other senior citizens
 
-To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and to actually interact witht the final prototype, click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
+To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and to actually interact with the final prototype, click [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
 
 <br>
 
