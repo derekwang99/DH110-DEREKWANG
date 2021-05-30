@@ -4,6 +4,8 @@
 
 As a result of the COVID-19 Pandemic, people have had to adapt to the new status quo. However, an invisible, vulnerable population is often left out of the discourse: senior citizens. Senior citizens need an easy way to use technology to adapt to the isolating circumstances we face today. I believe that senior citizens would greatly benefit from an app that promotes socialization and counsels mental health. Building upon these two concepts and incorporating user-centered design for the elder demographic could mean greater accessibility and quality of life for them, especially during these trying times.
 
+<\br>
+
 ## Design Statement
 
 The purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship. This project aims to not only make communication between senior citizens more accessible by providing a space dedicated to their age group, but also to create a friendly product that is as personal as possible to make users feel cared for. 
