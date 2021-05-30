@@ -4,11 +4,13 @@
 
 As a result of the COVID-19 Pandemic, people have had to adapt to the new status quo. However, an invisible, vulnerable population is often left out of the discourse: senior citizens. Senior citizens need an easy way to use technology to adapt to the isolating circumstances we face today. I believe that senior citizens would greatly benefit from an app that promotes socialization and counsels mental health. Building upon these two concepts and incorporating user-centered design for the elder demographic could mean greater accessibility and quality of life for them, especially during these trying times.
 
-<br></br>
+<br>
 
 ## Design Statement
 
 The purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship. This project aims to not only make communication between senior citizens more accessible by providing a space dedicated to their age group, but also to create a friendly product that is as personal as possible to make users feel cared for. 
+
+<br>
 
 ## Competitor Analysis
 
@@ -36,6 +38,8 @@ As a part of the competitve analysis, I conducted a pilot usability test to lear
 The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages.
 
 The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
+
+<br>
 
 ## User Research
 
@@ -82,6 +86,7 @@ To further understand our users, I performed UX storytelling through user person
 
 More about the UX storytelling process can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04).
 
+<br>
 
 ## Wireframes and Low-Fidelity Prototype
 
@@ -89,6 +94,7 @@ More about the UX storytelling process can be found [here](https://github.com/de
 
 Flow description: This flow intends for the user to search for a community based on their own personal interests. Users are asked a few questions to determine what community should be recommended to them. Users will have the ability to go back and forth between selection pages. Users that wish to search for a community directly can still do so as the search bar remains in the same position throughout. After selecting on a community, users can join the community, make posts on the forum, view trending content, and message other members of the community. Within the message tab, users can select who they want to message and how they want to message them. For examples, users have the option of using voice-chat, hand-writing, sending an image, or just typing regularly. 
 
+<br>
 
 ## High-Fidelity Prototype
 
@@ -98,15 +104,20 @@ Layout:
 The link to the prototype on Figma can be found [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1) and the presentation view can be found [here](https://www.figma.com/proto/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=31%3A96&scaling=scale-down&page-id=0%3A1).
 
 
+<br>
+
 ## Evaluation and Revision History
 
 Revisions: 
 1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
 2. I added more screens to better support the prototype's goals and tasks.
 
+<br>
 
 ## Pitch Video
 
 In Progress
+
+<br>
 
 ## Conclusion & Reflection
