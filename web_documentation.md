@@ -66,13 +66,15 @@ The elder generation may not really care about metrics of likes or views as much
 
 To further understand our users, I performed UX storytelling through user personas, empathy maps, and journey maps to present a narrative that provides a natural/engaging way to describe user behavior. I tried to best encapsulate this by describing the user's emotions, reactions, motivations, needs, behaviors, and inner thoughts. 
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Zhang.png" width="500" />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Zhang.png" width="900" />
 
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Frame%201.png" width="500" />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Frame%201.png" width="900" />
 
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Journey%20Map.png" width="500" />
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Journey%20Map.png" width="900" />
+
+More about the UX storytelling process can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment04).
 
 
 ## Wireframes and Low-Fidelity Prototype
