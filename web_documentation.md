@@ -64,10 +64,10 @@ The elder generation may not really care about metrics of likes or views as much
 
 ## UX Storytelling
 
+To further understand our users, I performed UX storytelling through user personas, empathy maps, and journey maps to present a narrative that provides a natural/engaging way to describe user behavior. I tried to best encapsulate this by describing the user's emotions, reactions, motivations, needs, behaviors, and inner thoughts. 
 
-1. Xinchen (Cindy) Zhang
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment04/assginment%2004/Cindy%20Zhang.png" width="500" />
 
-The purpose of UX storytelling is to present a narrative that provides a natural and engaging way to describe the use of a product or the point of a user experience. UX storytelling helps us explain difficult concepts and the additional context allows our audience to connect better. Examples of this context include the user's emotions, reactions, motivations, needs, behaviors, and inner thoughts. This sort of qualitative context is difficult to discover from quantative data. A unique benefit of UX storytelling is that stories spark our imagination and give us the freedom to make up any scenario. As a result, multiple solutions can be thought by different people making up their own stories. 
 
 ![](/assignment04/assginment%2004/Cindy%20Zhang.png)
 
