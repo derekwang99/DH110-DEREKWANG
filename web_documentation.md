@@ -124,7 +124,7 @@ I created different yellow/lilac variants to see which theme best fit Senior Cir
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
 
-To learn more about the high-fidelity prototyping process and testing (impression test & cognitive walkthrough), click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06)
+To learn more about the high-fidelity prototyping process, testing (impression test & cognitive walkthrough), and revision history, click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06).
 
 
 ### Final Screen Layout:
@@ -143,18 +143,6 @@ To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y
 
 <br>
 
-
-
-## Evaluation and Revision History
-
-Revisions: 
-1. I changed my primary color from a grey (#595959) to a darker grey (#424242) to improve contrast even more, and for the whiter panels, I changed the text color from grey (#666666) to pitch black (#000000), which now satisfies WCAG AAA and better serves the elderly's vision. 
-2. I added more screens to better support the prototype's goals and tasks.
-
-Revision details can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06).
-
-<br>
-
 ## Pitch Video
 
 In Progress
@@ -163,4 +151,4 @@ In Progress
 
 ## Conclusion & Reflection
 
-Ultimately, designing for accessibility helps everyone use a product better. 
+This project took quite a lot of independent research, especially when it came to actually prototyping, but I found the whole process to be quite interesting and very meaningful. I found it very satisfying to see that each decision I made when it came to functionality or interface design was indeed motivated by a real concern for the user. It is through this project that I realize that designing for accessibility helps everyone use a product better--everyone benefits from improved readability and guided product usage.
