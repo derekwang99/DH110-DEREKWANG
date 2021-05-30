@@ -52,7 +52,7 @@ After conducting the contextual inquiry, I found some insights to be interesting
 
 > "Well, um, the way they shoot the video, I feel it's not I don't want to say professional, but it's very attractive to, to view like, you know, the view the music and along with the, the interesting topics, plus the character. So you really want to continue to, to see what's going on and work through them prepare."
 
- The interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. Later, she talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
+The interviewee chose to watch a 25 minute-long documentary-esque video on cooking food in an Asian forest. Later, she talked about how Facebook and Reddit had a lot of junk posts. The interviewee later searched for movies when prompted to look for viral content. I think that this generation doesn't really understand how the current generation dishes out tons of short, raw content (like few seconds to a minute on TikTok, etc) and are more used to movies and more established content. I think this video served as a happy intermediary between short, TikTok-like content and an actual movie.
  
 3. The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. 
 
@@ -61,6 +61,10 @@ After conducting the contextual inquiry, I found some insights to be interesting
 > Welcome? Well nobody cares (if I am around).
 
 The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
+
+
+More on the results of the contexual inquiry and insights can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment03).
+
 
 ## UX Storytelling
 
