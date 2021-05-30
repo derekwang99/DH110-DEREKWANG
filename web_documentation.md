@@ -131,7 +131,7 @@ I created different yellow/lilac variants to see which theme best fit Senior Cir
 
 And finally, we arrive at our final prototype:
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> \
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> 
 
 
 *To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1).*
