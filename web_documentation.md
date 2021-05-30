@@ -134,9 +134,9 @@ And finally, we arrive at our final prototype:
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> \
 
 
-*To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1).
+*To get a closer look at the layout click [here](https://www.figma.com/file/6x37Y0Goi7V6a4eY8SFdH8/DH110-Project?node-id=0%3A1).*
 
-For our project, the prototype aims to provide these three basic capabiliities:
+<ins> For our project, the prototype aims to provide these three basic capabiliities: </ins>
 
 * Discover new communities with ease via the interactive search process.
 * The ability to browse an existing community.
