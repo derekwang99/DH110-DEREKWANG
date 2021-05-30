@@ -17,7 +17,6 @@ The purpose of this project is to create a product that connects local senior ci
 While I could not find direct competitors of Senior Circle, I was able to find some apps that are catered for seniors and analyzed their interface and user experience. 
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg" width="150" />
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/blob/main/Images/Senior%20Assist%20Homepage.jpg" width="150" />
 
 
 |      | Applifcation 1| Application 2 |
@@ -34,18 +33,12 @@ The full heuristic evaluation can be found [here](https://github.com/derekwang99
 As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
 <figure class="video_container">
-  <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" width = "900px" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-
-
-##### Interview Video Link:
-The usability test interview video can be found by clicking the thumbnail. 
-
-[![THE-ALT-TEXT](http://img.youtube.com/vi/7dqTuaKRRkg/0.jpg)](https://youtu.be/7dqTuaKRRkg "ALT-TEXT")
-
-
 The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning, and taught me much about the usability test process. The pilot test taught me to be cognizant of what I say and what I do. Behaving a certain way, even subconsciously, can alter the user's results during the interview. Thus it is important to be careful every step of the way. Since the user can look at the app with fresh eyes and a new perspective, they were able to catch more issues that I overlooked. Overall, the interview went well! The user successfully completed most tasks and had a lot of feedback for the app. However, a few things could be improved. Firstly, I could have rehearsed the script better so that I would sound more natural. Secondly, towards the end, I was unsure whether to vocalize the instructions or not since they were rather self explanatory--the user was likely starting to grow impatient and began to complete the page before I even prompted them to do so. Thirdly, there was a typo that caught me off guard and caused me to break my train of thought. Hollistically, the usability test was a relative success. The participant did enunciate some of his thinking process and pointed out some issues. The participant had little issue interpreting my tasks, which I particularly appreciate. To improve my usability tests in the future, the next time I will rehearse more, keep a consistent way of conducting the experiment, and double check the survey for grammatical errors or typos for the sake of professionalism.
+
+The full pilot usability test and materials can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
 ### User Research
 
@@ -67,8 +60,6 @@ After conducting the contextual inquiry, I found some insights to be interesting
 > Do you feel welcome in this community (Santa Clarita Foodies)?  
 
 > Welcome? Well nobody cares (if I am around).
-
-The full pilot usability test can be found [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment02).
 
 
 ### UX Storytelling
