@@ -32,7 +32,7 @@ The full heuristic evaluation can be found [here](https://github.com/derekwang99
 As a part of the competitve analysis, I conducted a pilot usability test to learn how users navigate around Senior Assist and Anvayaa. The interview can be found below.
 
 <figure class="video_container">
-  <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" width="420" height="345" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="//www.youtube.com/embed/7dqTuaKRRkg" width="840" height="690" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 The pilot usability test confirmed some of the weaknesses I have seen in Senior Assist Reminder and Learning. The participant ultimately did complete all of the assigned tasks, but did have some difficulty navigating some pages.
@@ -116,26 +116,22 @@ It is necessary to consider that this demographic is usually not tech savvy and 
 
 ### UI Decision Making for the Senior Citizen Demographic
 
+I chose to make the fonts a bit larger than normal (18px), and made the colors very high contrast (black/white) due to the fact that senior citizens tend to poorer vision. Additionally, the accessibility checks are satisfied according to WCAG AA and WCAG AAA standards. I incorporated a mainly black and white dark mode theme so that more colors can be used harmoniously, and avoided pure white (#FFFFFF) backgrounds to avoid eye strain. A slightly lighter shade (#F9F9F9) was used instead. As for the interaction design, a lot of the navigation for pages involve using the "Back" and "Next" buttons rather than swiping since button pressing may be more intuitive to the elder demographic.
+
 #### Graphic Design Element Variations
 
-I created different yellow/lilac variants to see which theme best fit Senior Circle. In the end, I still went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode). Perhaps in the future, users could chose their favorite color to set the app's color theme. Customizability makes a product more useful to use. 
+I created different yellow/lilac variants to see which theme best fit Senior Circle. In the end, I still went with the dark-mode theme because dark-mode is very gender-neutral, and is much easier on the eyes for our users. Dark-mode maintains very high contrast for easy readability, and does not cause eye pain when on maximum brightness (unlike the white-background of light mode). Perhaps in the future, users can chose their favorite color to set the app's color theme. Customizability makes a product more enjoyable to use. 
 
 <img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Variants.png" width="900" />
-
-#### Accessibility
-
-Because we are designing for the elderly in mind, the WCAG AA and AAA standard has been satisfied. 
 
 To learn more about the high-fidelity prototyping process and testing (impression test & cognitive walkthrough), click [here](https://github.com/derekwang99/DH110-DEREKWANG/tree/main/assignment06)
 
 
-
-#### Final Screen Layout:
+### Final Screen Layout:
 
 And finally, we arrive at our final prototype:
 
-<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" /> 
-
+<img src="https://github.com/derekwang99/DH110-DEREKWANG/raw/main/assignment06/Revised_Screens.png" width="900" />         
 
 For our project, the prototype aims to provide these three basic capabiliities:
 
@@ -166,3 +162,5 @@ In Progress
 <br>
 
 ## Conclusion & Reflection
+
+Ultimately, designing for accessibility helps everyone use a product better. 
