@@ -8,7 +8,7 @@ As a result of the COVID-19 Pandemic, people have had to adapt to the new status
 
 ## Design Statement
 
-The purpose of this project is to create a product that connects local senior citizens with each other with the goal of improving mental health through companionship. This project aims to not only make communication between senior citizens more accessible by providing a space dedicated to their age group, but also to create a friendly product that is as personal as possible to make users feel cared for. 
+The purpose of this project is to create a product that connects local senior citizens with the goal of improving mental health through companionship. This project aims to make communication between senior citizens more accessible by providing a safe space dedicated to their age group and also aims to create a personalized experience that makes users feel cared for.
 
 <br>
 
