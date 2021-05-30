@@ -143,6 +143,8 @@ For our project, the prototype aims to provide these three basic capabiliities:
 
 <br>
 
+<iframe src="https://player.vimeo.com/video/425708491" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Pitch Video
 
 In Progress
