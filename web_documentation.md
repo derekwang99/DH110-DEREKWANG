@@ -2,13 +2,13 @@
 
 ## Introduction
 
-As a result of the COVID-19 Pandemic, people have had to adapt to the new status quo. However, an invisible, vulnerable population is often left out of the discourse: senior citizens. Senior citizens need an easy way to use technology to adapt to the isolating circumstances we face today. I believe that senior citizens would greatly benefit from an app that promotes socialization and improves mental health. Building upon these two concepts and incorporating user-centered design for the elder demographic could mean greater accessibility and quality of life for them, especially during these trying times.
+As a result of the COVID-19 Pandemic, people have had to adapt to the new status quo. However, an invisible, vulnerable population is often left out of the discourse: senior citizens. Senior citizens need an easy way to use technology to adapt to the isolating circumstances we face today. I believe that senior citizens would greatly benefit from an app that promotes socialization and is easy to use. Building upon these two concepts and incorporating user-centered design for the elder demographic could mean greater accessibility and quality of life for them, especially during these trying times.
 
 <br>
 
 ## Design Statement
 
-The purpose of this project is to create a product that connects local senior citizens with the goal of improving mental health through companionship. This project aims to make communication between senior citizens more accessible by providing a safe space dedicated to their age group and also aims to create a personalized experience that makes users feel cared for.
+The purpose of this project is to create a personalized product that connects local senior citizens with the goal of improving mental health through companionship. This project aims to make communication between senior citizens more accessible by providing a safe space dedicated to their age group and also aims to create a personalized experience that makes users feel cared for.
 
 <br>
 
