@@ -45,7 +45,7 @@ The pilot usability test confirmed some of the weaknesses I have seen in Senior 
 
 To further investigate how elder users interact with technology that is catered to them, I conducted contextual inquiry by observing how the participant navigates around Facebook, an open-ended social media app that fits all demographics.
 
-### Key Insights
+### Key Insight
 
 After conducting the contextual inquiry, I drew some key insights, the most important being the following:
 
