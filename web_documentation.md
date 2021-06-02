@@ -140,7 +140,9 @@ Feel free to interact with the prototype below!
 
 ## Pitch Video
 
-In Progress
+<figure class="video_container">
+  <iframe src="//www.youtube.com/embed/UmS44VeC1So" width="840" height="690" align = "center" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 <br>
 
