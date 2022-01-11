@@ -1,4 +1,5 @@
 # Senior Circle by Derek Wang
+*Disclaimer: This is my first UX project I've ever undertaken.*
 
 ## Introduction
 
