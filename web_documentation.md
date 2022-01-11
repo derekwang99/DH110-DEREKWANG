@@ -52,9 +52,9 @@ After conducting the contextual inquiry, I drew some key insights, the most impo
 
 ##### The elder generation may feel that online communities like Facebook Groups and Reddit may be too open-ended and as a result feel like their posts do not matter. 
 
-> Do you feel welcome in this community (Santa Clarita Foodies)?  
+> Researcher: Do you feel welcome in this community (Santa Clarita Foodies)?  
 
-> Welcome? Well nobody cares (if I am around).
+> Participant: Welcome? Well nobody cares (if I am around).
 
 The elder generation may not really care about metrics of likes or views as much as they do for comments. As such, I think an essential aspect to consider in developing any app/website for the elder generation is that we need to make them feel like they are important, perhaps through smaller communities will allow for greater connections to develop and encourage greater interactivity.
 
